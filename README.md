@@ -1,4 +1,14 @@
-# Gambit — free chess trainer for iPhone & Android
+# MonoMate — free chess trainer for iPhone, Android, Windows and the web
+
+## Download
+
+- **Play in the browser:** https://monomate.pages.dev (on iPhone: Safari → Share → Add to Home Screen)
+- **Android and Windows:** latest release at https://github.com/andreinero/monomate/releases/latest
+  - `MonoMate-1.0.0.apk`: Android. Open it on the phone and allow installing from this source.
+  - `MonoMate-Setup-1.0.0.exe`: Windows installer.
+- **iPhone app:** installed from this Mac with Xcode (no App Store version).
+
+The repository is private, so you need to be logged in to GitHub to download the files.
 
 Play bots, learn with a coach, solve puzzles and review your games — all free, all on-device.
 
