@@ -9,6 +9,7 @@ before that is written down here from the work log, because no copies of the old
 - Web fixes: fonts were missing on the website; text fields pushed buttons off the screen in browsers.
 - Project saved to GitHub, with this history.
 - **Release 1.0.0** on GitHub with the Android APK and Windows installer to download.
+- Repository made public: https://github.com/andreinero/monomate
 
 ## 23 November 2026
 - **Chess clock** for games on a real board: tap your half after your move, time controls from

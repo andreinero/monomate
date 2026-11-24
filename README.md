@@ -8,8 +8,6 @@
   - `MonoMate-Setup-1.0.0.exe`: Windows installer.
 - **iPhone app:** installed from this Mac with Xcode (no App Store version).
 
-The repository is private, so you need to be logged in to GitHub to download the files.
-
 Play bots, learn with a coach, solve puzzles and review your games — all free, all on-device.
 
 ## Features
