@@ -1,0 +1,522 @@
+{
+  "sage": {
+    "hello": [
+      "Good to see you. Let's play a thoughtful game together.",
+      "Shall we begin? Play slowly, and trust your reasoning.",
+      "Welcome back. Let's see what today's game teaches us."
+    ],
+    "praise.great": [
+      "Beautifully found. Nothing else would have worked.",
+      "A remarkable move. That took real insight.",
+      "Well spotted. That was the only way forward."
+    ],
+    "praise.best": [
+      "Precisely right. That's the top move.",
+      "The best move. You read the position well.",
+      "Spot on. I couldn't improve on that."
+    ],
+    "praise.excellent": [
+      "Very nicely played. Almost perfect.",
+      "An excellent choice. You're seeing the board clearly.",
+      "Fine judgement. That move holds up well."
+    ],
+    "praise.good": [
+      "A sensible move. It keeps things steady.",
+      "Good enough, though there was a sharper idea.",
+      "Solid and sound. Keep building on it."
+    ],
+    "praise.book": [
+      "A classic move. Generations have played it.",
+      "Sound opening theory. You know your foundations.",
+      "A time-tested move. Well chosen."
+    ],
+    "inaccuracy": [
+      "A slight imprecision there.",
+      "Not the most accurate choice.",
+      "That's a little loose."
+    ],
+    "mistake": [
+      "I'm afraid that's a mistake.",
+      "That move was an error.",
+      "Ah, that's not right. A mistake."
+    ],
+    "blunder": [
+      "Oh dear. That's a serious blunder.",
+      "That's a costly blunder, I'm afraid.",
+      "A grave error, I'm sorry to say."
+    ],
+    "idle": [
+      "Quiet moves often hide a plan. What is it?",
+      "Take a breath. Look at the whole board."
+    ],
+    "win": [
+      "A fine victory. Your patience paid off.",
+      "Well done. That was a thoughtful win.",
+      "Splendid. You played with real purpose.",
+      "A deserved win. Remember how it felt."
+    ],
+    "lose": [
+      "Not your day. We'll learn from this together.",
+      "A defeat, but a useful one. Let's look closer.",
+      "Don't be discouraged. Every master has lost many games.",
+      "That one slipped away. The review will show why."
+    ],
+    "draw": [
+      "A draw. Neither side gave an inch.",
+      "Honours even. A well-balanced game.",
+      "A peaceful result, and there's much to take from it.",
+      "A draw. Both of you played with care."
+    ],
+    "threat": [
+      "Hold on a moment.",
+      "Look carefully before you move.",
+      "Take care now."
+    ],
+    "check": [
+      "Check. Stay calm and find a safe reply.",
+      "You're in check. Consider every way out.",
+      "Check. Look for the calmest escape.",
+      "Check. Can you block, capture, or step aside?"
+    ],
+    "opening": [
+      "A respected opening. Know the ideas, not just the moves.",
+      "An old and trusted opening. Play it with purpose.",
+      "A well-known opening. Let's see how you handle it.",
+      "A familiar opening. Its plans are well worth learning."
+    ],
+    "review.great": [
+      "A beautifully played game, from start to finish.",
+      "Truly excellent play. You should be proud."
+    ],
+    "review.good": [
+      "A good game. You made sensible decisions throughout.",
+      "Well played overall, with only small slips."
+    ],
+    "review.ok": [
+      "A fair game. Some moments could have gone better.",
+      "Not bad at all, though a few chances slipped by."
+    ],
+    "review.bad": [
+      "A difficult game. Let's see where it turned.",
+      "Not your best, but the lessons are valuable."
+    ],
+    "review.terrible": [
+      "That game went badly wrong, I'm afraid. We'll fix it.",
+      "To be frank, that was a very weak game. Let's study it."
+    ],
+    "review.start": [
+      "Let's walk through it together. Tap next to begin.",
+      "We'll go move by move. Tap next when you're ready."
+    ],
+    "opp.blunder": [
+      "A serious blunder from your opponent. A gift for you.",
+      "Your opponent erred badly here. Did you notice?"
+    ],
+    "opp.mistake": [
+      "Your opponent went wrong here.",
+      "An error by your opponent. Look at what it allows."
+    ],
+    "opp.inaccuracy": [
+      "A slightly loose move from your opponent.",
+      "Your opponent could have been more precise here."
+    ],
+    "opp.good": [
+      "Your opponent played that well.",
+      "A sensible move by your opponent. Credit where due."
+    ],
+    "opp.book": [
+      "Your opponent is still in familiar territory.",
+      "A standard opening move from your opponent."
+    ]
+  },
+  "bolt": {
+    "hello": [
+      "Hey champ! Ready to play some great chess?",
+      "Let's do this! Bring your best moves today.",
+      "Good to see you! Let's have a great game."
+    ],
+    "praise.great": [
+      "Incredible! That was the only move that works!",
+      "Wow, what a find! Seriously impressive!",
+      "That's a game-changer! Amazing vision!"
+    ],
+    "praise.best": [
+      "Nailed it! That's the best move!",
+      "Perfect play! Couldn't ask for more!",
+      "Right on target, champ!"
+    ],
+    "praise.excellent": [
+      "Excellent move! You're on a roll!",
+      "So good! Nearly perfect!",
+      "Love it! Really strong move!"
+    ],
+    "praise.good": [
+      "Nice one! Keep that momentum!",
+      "Good move! There was a little extra in there.",
+      "Solid work! Keep it rolling!"
+    ],
+    "praise.book": [
+      "Straight from the playbook! Nice!",
+      "Opening theory, champ! You've done your homework!",
+      "A classic! You know this one!"
+    ],
+    "inaccuracy": [
+      "Almost! Just a bit off.",
+      "Not your sharpest move!",
+      "Slightly off target!"
+    ],
+    "mistake": [
+      "Oops, that's a mistake!",
+      "Ah, missed the mark there!",
+      "That one's a mistake, champ!"
+    ],
+    "blunder": [
+      "Oh no, that's a big blunder!",
+      "Yikes! That's a blunder!",
+      "Ouch, that's a costly blunder!"
+    ],
+    "idle": [
+      "Quiet move from them. Time to make yours count!",
+      "Your turn, champ! Look for something bold!"
+    ],
+    "win": [
+      "You did it! What a win!",
+      "Game over, and you won! Awesome job!",
+      "That's a win! So proud of you, champ!",
+      "Victory! You played like a pro!"
+    ],
+    "lose": [
+      "Tough one! Shake it off, we go again!",
+      "Not this time, champ! Next game is yours!",
+      "We lost this round. Let's learn and level up!",
+      "Hey, losses build champions! Let's review it!"
+    ],
+    "draw": [
+      "A draw! Great fight from both sides!",
+      "Even match! Next time we take the win!",
+      "Draw! Solid effort, champ!",
+      "Nobody blinked! Well-fought draw!"
+    ],
+    "threat": [
+      "Whoa, watch out!",
+      "Heads up, champ!",
+      "Alert! Time to defend!"
+    ],
+    "check": [
+      "Check! Stay cool and find the escape!",
+      "They're checking you! Find a safe move!",
+      "Check! No panic, just find the right reply!",
+      "Check incoming! Let's get out of trouble!"
+    ],
+    "opening": [
+      "Love this opening! Let's play it with energy!",
+      "Ooh, a classic opening! Show them what you've got!",
+      "Nice opening choice! Get everything into action!",
+      "A famous opening! Let's make it count!"
+    ],
+    "review.great": [
+      "Incredible game! You were on fire!",
+      "That was championship-level play! Amazing!"
+    ],
+    "review.good": [
+      "Really good game! Lots to be proud of!",
+      "Nice work out there, champ! Strong stuff!"
+    ],
+    "review.ok": [
+      "Decent game! There's more in the tank!",
+      "Okay game! A few tweaks and you'll soar!"
+    ],
+    "review.bad": [
+      "Rough game, but we'll turn it around!",
+      "Not your best, champ! Let's fix it together!"
+    ],
+    "review.terrible": [
+      "Honestly, that game was really bad! Let's rebuild from here!",
+      "No hiding it, that game was awful! Let's turn it around!"
+    ],
+    "review.start": [
+      "Let's go! Tap next to replay every move!",
+      "Ready? Tap next and we'll walk through it!"
+    ],
+    "opp.blunder": [
+      "Huge blunder from them! Big opportunity!",
+      "They dropped the ball! Your chance to strike!"
+    ],
+    "opp.mistake": [
+      "They made a mistake! Can you punish it?",
+      "Mistake from them! Advantage you!"
+    ],
+    "opp.inaccuracy": [
+      "Not their best move! A little opening for you!",
+      "They were a bit off there!"
+    ],
+    "opp.good": [
+      "Credit to them, that was strong!",
+      "They played that well! Stay focused!"
+    ],
+    "opp.book": [
+      "They know their opening theory!",
+      "Classic opening play from them!"
+    ]
+  },
+  "nova": {
+    "hello": [
+      "Hello! Ready to explore some new positions?",
+      "Welcome to the lab! Let's test some ideas.",
+      "Hi there! I wonder what we'll discover today."
+    ],
+    "praise.great": [
+      "Extraordinary! The only move that holds, and you found it!",
+      "Wow! That's a genuine discovery!",
+      "Remarkable! Every other move fails here!"
+    ],
+    "praise.best": [
+      "Exactly right! The best move!",
+      "Spot on! Your analysis was flawless.",
+      "Top result! That's the optimal move."
+    ],
+    "praise.excellent": [
+      "Excellent! Your calculations are paying off.",
+      "Very nearly optimal. Impressive work!",
+      "Strong move! Your method is working."
+    ],
+    "praise.good": [
+      "A reasonable result! A better option was possible.",
+      "Good thinking! Close to the ideal answer.",
+      "Decent! The experiment mostly worked."
+    ],
+    "praise.book": [
+      "Textbook theory! Well studied!",
+      "A tested and proven move!",
+      "Known theory! The research backs you up."
+    ],
+    "inaccuracy": [
+      "Hmm, a slight deviation there.",
+      "Not quite optimal, I'm afraid.",
+      "A small error in the calculation."
+    ],
+    "mistake": [
+      "Uh oh, the results show a mistake.",
+      "That doesn't check out. A mistake.",
+      "Hmm, that's a miscalculation."
+    ],
+    "blunder": [
+      "Oh dear, that's a major blunder!",
+      "Catastrophic result! That's a blunder.",
+      "Yikes, that's a serious blunder!"
+    ],
+    "idle": [
+      "A quiet move! What could they be planning?",
+      "Curious move. What changed on the board?"
+    ],
+    "win": [
+      "Victory! Your hypothesis was correct!",
+      "You won! What a satisfying result!",
+      "Success! The experiment worked beautifully!",
+      "A win! The data looks excellent!"
+    ],
+    "lose": [
+      "A loss, but a useful result. Let's study it!",
+      "That experiment didn't work out. Let's learn why!",
+      "Not this time! Every failure teaches something.",
+      "We lost, but now we have new data!"
+    ],
+    "draw": [
+      "A draw! Perfectly balanced results.",
+      "Equilibrium reached! A draw.",
+      "A draw! Fascinating how even that was.",
+      "Neither side broke through. Curious result!"
+    ],
+    "threat": [
+      "Uh oh, look closely!",
+      "Wait! I've detected a danger.",
+      "Hold on, something's off!"
+    ],
+    "check": [
+      "Check! Let's work out every possible escape.",
+      "You're in check! Which reply is safest?",
+      "Check! Time to solve this puzzle.",
+      "Check! Let's analyze your options carefully."
+    ],
+    "opening": [
+      "Ooh, I love this opening! So many ideas to explore.",
+      "A well-studied opening! Let's see the theory in action.",
+      "Interesting opening! Lots of research on this one.",
+      "A famous opening! Let's run the experiment."
+    ],
+    "review.great": [
+      "What a game! The data looks fantastic!",
+      "Superb results! Very few errors at all!"
+    ],
+    "review.good": [
+      "Good game! The results are encouraging!",
+      "Nice work! Mostly accurate play!"
+    ],
+    "review.ok": [
+      "A mixed result! Some things to refine.",
+      "Not bad! A few experiments went wrong."
+    ],
+    "review.bad": [
+      "A difficult result, but very educational!",
+      "That one didn't go well. Let's investigate!"
+    ],
+    "review.terrible": [
+      "To be honest, that game was a disaster! Let's study it.",
+      "The results are clear: that went very badly. Lots to learn!"
+    ],
+    "review.start": [
+      "Let's examine the data! Tap next to begin.",
+      "Ready to investigate? Tap next for each move."
+    ],
+    "opp.blunder": [
+      "Big blunder from your opponent! Great news for you!",
+      "Fascinating! Your opponent made a serious error."
+    ],
+    "opp.mistake": [
+      "Your opponent miscalculated here!",
+      "A mistake from your opponent! Can you exploit it?"
+    ],
+    "opp.inaccuracy": [
+      "A small inefficiency from your opponent.",
+      "Your opponent drifted slightly off course."
+    ],
+    "opp.good": [
+      "A clever move from your opponent!",
+      "Your opponent played that accurately."
+    ],
+    "opp.book": [
+      "Your opponent is sticking to known theory.",
+      "A well-researched move from your opponent."
+    ]
+  },
+  "knox": {
+    "hello": [
+      "Attention, recruit. Game on. Stay sharp.",
+      "Report for duty. Play with discipline.",
+      "Eyes on the board, recruit. We begin."
+    ],
+    "praise.great": [
+      "Exceptional, recruit. Nothing else worked.",
+      "Sharp eyes, recruit. That was the move.",
+      "Impressive. No other move would do."
+    ],
+    "praise.best": [
+      "Best move. That is how it is done.",
+      "Precise. That is the best move.",
+      "Right on target, recruit."
+    ],
+    "praise.excellent": [
+      "Strong move. Keep it up.",
+      "Excellent. Stay on task.",
+      "Sharp. Almost flawless."
+    ],
+    "praise.good": [
+      "Fine. But there was better.",
+      "Decent. Keep improving, recruit.",
+      "Acceptable move. Not the best."
+    ],
+    "praise.book": [
+      "Opening theory, executed properly.",
+      "Proper procedure, recruit.",
+      "Textbook. Carry on."
+    ],
+    "inaccuracy": [
+      "Careless. Not the best.",
+      "Imprecise move, recruit.",
+      "Loose. Do better."
+    ],
+    "mistake": [
+      "Error, recruit. A mistake.",
+      "Wrong move. That is a mistake.",
+      "Mistake. Pay attention."
+    ],
+    "blunder": [
+      "Blunder. That is inexcusable.",
+      "Total blunder, recruit.",
+      "That is a serious blunder. Unacceptable."
+    ],
+    "idle": [
+      "Quiet move from the enemy. Find their plan.",
+      "Stay alert, recruit. Assess the position."
+    ],
+    "win": [
+      "Victory, recruit. Well executed.",
+      "Enemy defeated. Good work.",
+      "A win. Earned. Stay humble.",
+      "Objective complete. At ease, recruit."
+    ],
+    "lose": [
+      "Defeat. Learn from it. Train harder.",
+      "You lost, recruit. Study your errors.",
+      "Mission failed. We regroup and go again.",
+      "Loss recorded. No excuses. Improve."
+    ],
+    "draw": [
+      "A draw. Acceptable. Not satisfying.",
+      "Even battle. Next time, win it.",
+      "Draw, recruit. You need more.",
+      "No winner today. Back to training."
+    ],
+    "threat": [
+      "Stay alert, recruit. Look.",
+      "Danger. Respond now.",
+      "Incoming threat, recruit."
+    ],
+    "check": [
+      "Check. Get out of it. Fast.",
+      "Check, recruit. Find a safe reply.",
+      "Under check. Respond correctly.",
+      "Check. Stay calm. Execute."
+    ],
+    "opening": [
+      "Known opening. Follow the plan.",
+      "Recognized opening. Stick to the principles.",
+      "Familiar opening. Execute it properly.",
+      "Familiar ground. Know your duties."
+    ],
+    "review.great": [
+      "Outstanding performance, recruit. Well done.",
+      "Near flawless. That is discipline."
+    ],
+    "review.good": [
+      "Good game, recruit. Few errors.",
+      "Strong performance. Stay consistent."
+    ],
+    "review.ok": [
+      "Passable. Too many loose moves.",
+      "Average game, recruit. Raise the standard."
+    ],
+    "review.bad": [
+      "Poor game, recruit. Back to training.",
+      "Weak performance. We fix this."
+    ],
+    "review.terrible": [
+      "That was a disaster, recruit. Total failure. We rebuild.",
+      "A very bad game. No excuses. We train."
+    ],
+    "review.start": [
+      "Debrief begins. Tap next. Focus.",
+      "Step through it, recruit. Tap next."
+    ],
+    "opp.blunder": [
+      "Enemy blunder. Strike hard.",
+      "Your opponent blundered, recruit. Exploit it."
+    ],
+    "opp.mistake": [
+      "Enemy error. Press the advantage.",
+      "Your opponent slipped. Make them pay."
+    ],
+    "opp.inaccuracy": [
+      "Imprecise move from the enemy.",
+      "Loose play from your opponent. Note it."
+    ],
+    "opp.good": [
+      "Solid move from the enemy. Stay alert.",
+      "Strong move from the enemy. Don't underestimate them."
+    ],
+    "opp.book": [
+      "Standard theory from the enemy.",
+      "The enemy knows the manual. Routine."
+    ]
+  }
+}

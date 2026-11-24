@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+  <!-- Biscuit (neutral) — original line art, hand-drawn to match the Notionists portrait style. -->
+  <rect width="320" height="320" fill="#F3F3F0"/>
+  <path d="M52 330 C56 262 104 226 160 226 C216 226 264 262 268 330 Z" fill="#fff" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 290 C124 300 128 306 134 312 M200 290 C196 300 192 306 186 312" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="92,126 96,50 144,100" fill="#fff" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="228,126 224,50 176,100" fill="#fff" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M104 112 L104 72 L130 100" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M216 112 L216 72 L190 100" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 92 C222 92 246 128 246 166 C246 210 208 236 160 236 C112 236 74 210 74 166 C74 128 98 92 160 92 Z" fill="#fff" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#000"><path d="M152 96 L160 124 L168 96 Z"/><path d="M128 100 L140 120 L144 97 Z"/><path d="M192 100 L180 120 L176 97 Z"/></g>
+  <path d="M102 224 C134 250 186 250 218 224" fill="none" stroke="#000" stroke-width="13" stroke-linecap="round"/>
+  <line x1="160" y1="244" x2="160" y2="252" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 252 a4 4 0 0 1 8 0 a4 4 0 0 1 8 0 a4 4 0 0 1 8 0 a4 4 0 0 1 8 0 a4 4 0 0 1 8 0 a4 4 0 0 1 0 8 a4 4 0 0 1 0 8 a4 4 0 0 1 0 8 a4 4 0 0 1 0 8 a4 4 0 0 1 -8 0 a4 4 0 0 1 -8 0 a4 4 0 0 1 -8 0 a4 4 0 0 1 -8 0 a4 4 0 0 1 -8 0 a4 4 0 0 1 0 -8 a4 4 0 0 1 0 -8 a4 4 0 0 1 0 -8 a4 4 0 0 1 0 -8 Z" fill="#fff" stroke="#000" stroke-width="5" stroke-linejoin="round"/>
+  <g fill="#000"><circle cx="152" cy="263" r="2.4"/><circle cx="168" cy="263" r="2.4"/><circle cx="152" cy="273" r="2.4"/><circle cx="168" cy="273" r="2.4"/></g>
+  <path d="M108 186 L54 178 M108 196 L52 200 M112 206 L60 220 M212 186 L266 178 M212 196 L268 200 M208 206 L260 220" fill="none" stroke="#000" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="127" cy="164" r="16" fill="#fff" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="193" cy="164" r="16" fill="#fff" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M114 164 L140 164 A13 13 0 0 1 114 164 Z M180 164 L206 164 A13 13 0 0 1 180 164 Z" fill="#000"/>
+  <path d="M112 163 Q127 167 142 163 M178 163 Q193 167 208 163" fill="none" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="132" cy="170" r="2.6" fill="#fff"/><circle cx="198" cy="170" r="2.6" fill="#fff"/>
+  <path d="M150 180 Q160 176 170 180 Q166 190 160 191 Q154 190 150 180 Z" fill="#000" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M160 191 L160 198 M148 199 Q154 205 160 198 Q166 205 172 199" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

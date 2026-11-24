@@ -1,0 +1,598 @@
+{
+  "coaches": {
+    "sage": {
+      "hello": [
+        "Ah, you're back. I've hidden the good biscuits, just in case you cry.",
+        "Good day. Shall we see how quickly you can bugger up a perfectly nice afternoon?",
+        "Welcome, darling. Your pieces are ready, even if your brain bloody isn't.",
+        "Hello again. I've brought my reading glasses and an enormous amount of patience."
+      ],
+      "praise": [
+        "Oh, well played. Did someone whisper it to you, or was that a happy accident?",
+        "A rather good move. I'm almost proud, which is a damned unsettling feeling.",
+        "Goodness, competence. How bloody refreshing, and how terribly unlike you.",
+        "Bravo. Even a stopped clock is right twice a day, as they say."
+      ],
+      "inaccuracy": [
+        "A trifle sloppy, darling. Like a soggy sandwich.",
+        "Oh, not your finest, is it, old thing.",
+        "Slightly off. Rather like milk left out in the sun.",
+        "Hmm, a bit half-arsed, that."
+      ],
+      "mistake": [
+        "Oh, how dreadful. That's a proper shambles of a move.",
+        "Bloody hell, darling. That was a genuine mistake.",
+        "My word. That move belongs in the bin, frankly.",
+        "That was rubbish, I'm sorry to say. Utter rubbish."
+      ],
+      "blunder": [
+        "Oh, splendid. You've just set fire to the whole bloody game.",
+        "Dear heavens, that's a blunder so daft it deserves its own plaque.",
+        "Well, shit. I'm going to need a very large gin after that one.",
+        "A colossal blunder. Even the board looks thoroughly ashamed of you."
+      ],
+      "win": [
+        "A win, darling. I'd pop the champagne, but let's not encourage you.",
+        "Victory, of a sort. Rather like winning a pie-eating contest by accident.",
+        "You've won. Your opponent must be weeping into their bloody cornflakes.",
+        "Well done. A dreadful game, a lucky result, and a damned fine fluke."
+      ],
+      "lose": [
+        "Defeated, darling. Thoroughly, comprehensively, and rather amusingly.",
+        "You lost. Let's call it character building, shall we, you poor sod.",
+        "And that's that. You were outplayed by every measure known to mankind.",
+        "A loss. Your opponent ate you for breakfast and asked for seconds."
+      ],
+      "draw": [
+        "A draw. Two people politely failing at the same damned time.",
+        "A draw. Like a cricket match rained off before anyone bothered to play.",
+        "A draw. Rather like a dinner party where nobody brought the wine.",
+        "Even, then. Neither of you could finish the bloody job."
+      ],
+      "review.ok": [
+        "A so-so game. Some sensible bits, some utterly baffling bits.",
+        "Decent enough, I suppose. Like a sandwich from a petrol station.",
+        "Middle of the road, darling. Neither triumph nor bloody tragedy.",
+        "Fairly ordinary. A few nice moves, and a fair amount of nonsense."
+      ],
+      "review.bad": [
+        "A poor show, darling. Let's dig through the wreckage, shall we.",
+        "That went badly. Rather like a picnic in a thunderstorm.",
+        "A bad game. You fumbled about like someone looking for their keys in the dark.",
+        "Not pretty, old bean. Not pretty in the slightest, damn it."
+      ],
+      "review.terrible": [
+        "Good grief. That game was an unmitigated bloody disaster.",
+        "I've seen tidier wreckage after a hurricane, darling. Dreadful.",
+        "That was a horror show from start to finish. Pass the gin.",
+        "Heavens above, that was shite of the very highest order."
+      ],
+      "book": [
+        "Theory, darling. Lovely. A tape recorder could do the same.",
+        "Well memorised. Now let's see if there's a brain behind the bloody memory.",
+        "Book move. Splendid photocopying, I must say.",
+        "Ah, the textbook move. Every schoolchild knows it, so don't get smug.",
+        "Known theory. Even my aunt's cat has played that one, damn it.",
+        "A borrowed move. Copied from far cleverer people than you, darling."
+      ],
+      "idle": [
+        "A sleepy move from them. Do wake up and exploit it, you dozy thing.",
+        "Your opponent is twiddling their thumbs. Do something clever for once.",
+        "They've done bugger all. Your turn to do slightly more than that.",
+        "Rather a dull move from them. Don't match it with an even duller one.",
+        "They're fiddling about. Have a proper look, darling, there may be something.",
+        "A quiet little move. Suspicious, isn't it? Or are you too busy dozing?"
+      ],
+      "opening": [
+        "A classic opening. Do treat it better than you treat your houseplants.",
+        "Oh, a well-known opening. I'm sure you'll find a new way to ruin it.",
+        "A fine opening, darling. Let's see how long before it all goes to hell.",
+        "A venerable opening. The old masters would weep, frankly.",
+        "A good opening. Shame you only know the first bloody page of it.",
+        "Ah, a proper opening. Now, do try to remember what comes next."
+      ],
+      "threat": [
+        "Oh, for heaven's sake.",
+        "Eyes open, you daft thing.",
+        "Steady on, darling.",
+        "Dear me, look out.",
+        "Oh, this is bloody awkward.",
+        "Crikey, pay attention."
+      ],
+      "check": [
+        "Check, darling. I'd deal with that rather swiftly if I were you.",
+        "Check. Do stop admiring the scenery and get out of it.",
+        "Oh look, check. How bloody predictable. Sort it out.",
+        "Check, you poor lamb. Find an exit, sharpish.",
+        "You're in check, old bean. Panic quietly and solve it.",
+        "Check. Kindly extract yourself from this damned mess."
+      ],
+      "retry": [
+        "A second chance. More than most people get, so don't squander it.",
+        "Back we go. Pretend that never happened, as I shall try to.",
+        "Take it back, darling. And this time, do think first.",
+        "Another try. Third time lucky, perhaps, if this one goes to hell too.",
+        "Ah, the undo button. Your truest friend in this bloody game.",
+        "Very well, again. Slower this time, and with actual thought, for once."
+      ],
+      "hint": [
+        "Need a little nudge, darling? The arrow will hold your hand.",
+        "A hint, how humbling. Follow the arrow and try to look clever.",
+        "Here you are. Do pretend you'd have found it yourself.",
+        "There's your clue. Even you should manage this one, surely.",
+        "Ah, the arrow of shame. Off you go, then.",
+        "A hint already? Good heavens, we've barely begun, you useless thing."
+      ]
+    },
+    "bolt": {
+      "hello": [
+        "And here comes the rookie, jogging onto the field with no damn idea!",
+        "Welcome to the stadium, champ! The fans came for the bloopers!",
+        "Kickoff time, baby! Let's see some hustle and a little less crap!",
+        "Big game today, champ! The bookies have you as a massive underdog!"
+      ],
+      "praise": [
+        "What a play! Did somebody else take your turn, champ?",
+        "Good move! The commentary team is speechless, and that's a damn first!",
+        "Touchdown! A real move from the rookie! Somebody pinch me!",
+        "Wow, champ, a clean play! Even the hecklers shut the hell up!"
+      ],
+      "inaccuracy": [
+        "Wide of the net, champ!",
+        "Sloppy hands, buddy! Damn sloppy!",
+        "A lazy jog back on defense!",
+        "Not your best snap, champ!"
+      ],
+      "mistake": [
+        "Interception! What the hell were you thinking?",
+        "Oof, that play was straight-up crap, folks!",
+        "Penalty! That move was dumber than a mascot!",
+        "Turnover! You handed them the damn ball!"
+      ],
+      "blunder": [
+        "Holy hell, folks, the rookie just scored on their own team!",
+        "What a fucking calamity! The crowd is walking out!",
+        "Ladies and gentlemen, that blunder will haunt the highlight reel forever!",
+        "And that, folks, is the worst play since the invention of the damn ball!"
+      ],
+      "win": [
+        "Final whistle, and you won! Pure dumb luck, but it counts, baby!",
+        "Victory lap, champ! Wave to the crowd, they can't believe it either!",
+        "A win! Your opponent is gonna be crying in the locker room! Hell yeah!",
+        "And the scrappy underdog takes it! Nobody saw that shit coming!"
+      ],
+      "lose": [
+        "Final score, and it's ugly! You got smoked, champ!",
+        "Defeat! The fans want their damn money back!",
+        "Loss on the board! That was a clinic, folks, and you were the practice dummy!",
+        "And our rookie goes down! Back to the minor leagues, champ!"
+      ],
+      "draw": [
+        "Tie game! Both teams played like they forgot their damn cleats!",
+        "A draw, folks! Overtime got cancelled because nobody cared!",
+        "Perfectly level! Two benchwarmers, one boring-ass result!",
+        "A stalemate on the scoreboard! Somebody refund these poor fans!"
+      ],
+      "review.ok": [
+        "Decent game, champ! Some highlights, and a pile of fumbles!",
+        "Middling stuff! You ran the plays, but you ran them like a sleepy-ass rookie!",
+        "Not bad, not great! A solid bench performance, buddy!",
+        "Average outing! The scouts aren't calling yet, champ!"
+      ],
+      "review.bad": [
+        "Ugly game, folks! The replay crew is gonna need overtime pay!",
+        "Bad showing, champ! You dropped more passes than a butterfingered rookie!",
+        "That game stunk, buddy! Let's go to the damn tape!",
+        "Rough outing! The other team made you look like a cardboard cutout!"
+      ],
+      "review.terrible": [
+        "That game was a five-alarm fire, folks! Call the damn fire department!",
+        "Holy crap, that was a disaster of historic proportions!",
+        "Folks, that's the worst tape I've ever had to commentate! Fucking brutal!",
+        "Total wipeout, champ! The league wants that game erased from the archives!"
+      ],
+      "book": [
+        "By the playbook, champ! Even the equipment manager knows that one!",
+        "Memorized play! Gold star for copying, champ!",
+        "Theory move! The rookie studied the playbook, folks! A damn miracle!",
+        "Classic play! Every chimp in the league runs that one!",
+        "Book move, baby! Don't take a bow, that's free points for anybody!",
+        "Off the whiteboard! Zero creativity, but hey, it's correct!"
+      ],
+      "idle": [
+        "Opponent just jogged in place, folks! Your chance, champ, don't blow it!",
+        "Quiet play from them! Somebody get this crowd a damn coffee!",
+        "They're running out the clock! Make something happen, buddy!",
+        "A boring move from the other side! The cameras are panning to you, champ!",
+        "Nothing flashy from them! Your move, so try not to trip!",
+        "They're sleepwalking, folks! Time for our rookie to do something smart, for once!"
+      ],
+      "opening": [
+        "Ooh, a legendary opening! Let's see the rookie mangle it!",
+        "Big-name opening, folks! Too bad the player is a no-name scrub!",
+        "Pro-level opening! Amateur-level brain! Let's go!",
+        "Famous opening, champ! Hall of famers ran this play, now look at you!",
+        "Hell of an opening! Let's see if you can stick the landing!",
+        "The rookie breaks out a real opening! The crowd is cautiously optimistic, and a little scared!"
+      ],
+      "threat": [
+        "Red zone, champ!",
+        "Blitz incoming, look out!",
+        "Oh hell, here they come!",
+        "Danger, damn it, danger!",
+        "Watch your back, buddy!",
+        "Uh oh, the defense is asleep!"
+      ],
+      "check": [
+        "Check! You're getting rushed, champ, do something!",
+        "Check, folks! The rookie's in big trouble now!",
+        "Check! Dodge that tackle, buddy, move it!",
+        "Check! Get out of the pocket, damn it!",
+        "In check! Don't just stand there like a mascot!",
+        "Check! This is a hell of a pressure play, champ, respond!"
+      ],
+      "retry": [
+        "Replay review! The refs are giving you another shot, champ!",
+        "Back to the huddle! Draw up something less stupid this time!",
+        "Second down, buddy! Let's not fumble it again!",
+        "Take it back! That play never happened, folks, wink wink!",
+        "Redo! Even the commentators are embarrassed for you, champ!",
+        "Rewind the tape! Let's try that without the damn butterfingers!"
+      ],
+      "hint": [
+        "Here comes the coach with the clipboard! Follow that arrow, champ!",
+        "Hint on the board! Even you can run a play this simple!",
+        "Need a cheat sheet? Fine! The arrow's right there, buddy!",
+        "The coach draws an arrow! Don't screw up the easiest play in history!",
+        "Help from the sidelines! The crowd is booing, but whatever!",
+        "Hint time, champ! Run where the arrow says, and hope for the best!"
+      ]
+    },
+    "nova": {
+      "hello": [
+        "Welcome back, specimen! The lab smells of fear and burnt toast!",
+        "Hi, subject! Today we test whether your brain is decorative or functional!",
+        "Ah, my favorite failed prototype is back! Let's poke it with science!",
+        "Greetings! I've reset the instruments after the last disaster you caused!"
+      ],
+      "praise": [
+        "Whoa! A good move! My calculator just fell off the damn bench!",
+        "A successful reaction! I didn't think your chemicals could do that!",
+        "Holy hell, a valid result! Quick, someone take a sample!",
+        "Good move! Clearly a random mutation, but a beneficial one!"
+      ],
+      "inaccuracy": [
+        "Slight measurement error, dumbass!",
+        "Hmm, rounding errors everywhere!",
+        "The beaker's a little cloudy there!",
+        "Not quite, little lab rat!"
+      ],
+      "mistake": [
+        "Ugh, the formula was wrong, you donkey!",
+        "Wrong reagent, genius! Total crap!",
+        "Experiment compromised! What the hell?",
+        "Sample ruined! That's a bona fide mistake!"
+      ],
+      "blunder": [
+        "Meltdown! The reactor in your skull just went critical!",
+        "Holy shit, you blew a hole straight through the lab wall!",
+        "Fascinating! You've discovered antimatter stupidity!",
+        "That blunder is so bad it bent the laws of physics! Damn!"
+      ],
+      "win": [
+        "Eureka! You won! I'm genuinely baffled by the data!",
+        "Victory! The experiment worked, and nobody knows why, least of all you!",
+        "A win! Quick, document it before the universe corrects this error!",
+        "You won! Your opponent must have been an even dumber control sample! Hell yes!"
+      ],
+      "lose": [
+        "Experiment failed! Shocking absolutely nobody in this damn lab!",
+        "You lost! I'm adding it to the archive of predictable disasters!",
+        "Defeat! The specimen got squashed under a microscope slide!",
+        "Lost! Even my coffee maker plays a better endgame!"
+      ],
+      "draw": [
+        "A draw! Two inert gases bumping into each other! Thrilling!",
+        "Stalemate in the lab! Neither specimen evolved a damn brain!",
+        "A tie! The control group and the test group were equally useless!",
+        "Draw! A reaction with zero energy and a lot of crap fumes!"
+      ],
+      "review.ok": [
+        "Average output! The machine says meh, and so do I!",
+        "Middling data! A few clean readings, lots of garbage!",
+        "Okay-ish results! Not worth a paper, maybe a damn footnote!",
+        "Adequate! The graph wobbles but doesn't totally crash!"
+      ],
+      "review.bad": [
+        "Bad data! Let's sift through the smoking rubble!",
+        "Poor results! The lab assistant had to leave the room!",
+        "Bad game! Your choices fizzled like flat soda!",
+        "Ugh, that run was a crap-filled test tube!"
+      ],
+      "review.terrible": [
+        "Total meltdown! I'm evacuating the building because of that fucking game!",
+        "Disaster! That data set is radioactive, nobody touch it!",
+        "Abysmal! Even the petri dish mold looked embarrassed!",
+        "Holy hell! That game violated at least twelve laws of science!"
+      ],
+      "book": [
+        "Book move! Excellent reproduction of somebody else's work, copycat!",
+        "Known theory! Your memory module works, at least!",
+        "Opening theory! A parrot in a lab coat could do that!",
+        "Textbook! Even my toaster has that one memorized, dumbass!",
+        "Theory move! Zero originality, but hey, zero explosions too!",
+        "Book move! The library did the thinking for you, genius!"
+      ],
+      "idle": [
+        "Opponent moved quietly! Suspicious! Analyze it before it bites you!",
+        "Hmm, a calm move from them! Calm before your personal storm of crap!",
+        "Nothing dramatic from them! Use the downtime to grow a brain cell!",
+        "Low-energy move from the opponent! Now, specimen, react!",
+        "A sneaky little move from them! Keep your damn goggles on!",
+        "Quiet over there! My sensors say you're about to waste it!"
+      ],
+      "opening": [
+        "Opening identified! Now watch the specimen contaminate it!",
+        "A famous opening! Generations of research, about to be flushed!",
+        "Ooh, a classic formula! Let's see you mix it wrong!",
+        "Known opening! The theory is solid, unlike your damn judgement!",
+        "Recognized opening! I give it twelve moves before it combusts!",
+        "A celebrated opening! The lab is holding its breath, and its nose!"
+      ],
+      "threat": [
+        "Sirens, sirens, everybody duck!",
+        "Danger, test subject!",
+        "Oh crap, radiation spike!",
+        "Wait, something's smoking!",
+        "Alert, you walking hazard!",
+        "Uh oh, unstable compound!"
+      ],
+      "check": [
+        "Check! Your specimen is cornered, get it out!",
+        "Check! Emergency protocol, move, move, move!",
+        "Check detected! Escape the beaker, genius!",
+        "Check! Stop gawking at the bubbles and respond!",
+        "Check! The experiment is fizzing, deal with it, dumbass!",
+        "Check! Find an exit before the lab explodes!"
+      ],
+      "retry": [
+        "Experiment rewound! Try a less idiotic variable!",
+        "Trial number two! Same rat, new maze!",
+        "Reset! Science is all about failing repeatedly, and you're a natural!",
+        "Rolling back the timeline! Please don't break it again!",
+        "Retry! I've cleaned the beakers, now don't spill shit everywhere!",
+        "Undo! The universe gives you one more chance, sucker!"
+      ],
+      "hint": [
+        "Hint! The arrow did the research, you just copy it!",
+        "Fine, a clue! Even lab mice get breadcrumbs!",
+        "Hint activated! Try to understand it, not just poke it!",
+        "Here's the answer, specimen! Peer review would be appalled!",
+        "Arrow deployed! It has more brain cells than you!",
+        "Hint! My robot assistant found it in a nanosecond!"
+      ]
+    },
+    "knox": {
+      "hello": [
+        "Attention, recruit! Today's mission: don't embarrass this unit!",
+        "Rise and shine, maggot! The board won't defend itself!",
+        "Back for more, recruit? Good! I've got plenty of yelling saved up!",
+        "Line up, maggot! Brains on, boots laced, and no damn excuses!"
+      ],
+      "praise": [
+        "Good move, recruit! Don't smile, it's unbecoming!",
+        "Well, hell! A correct move from a maggot! Carry on!",
+        "Not bad, recruit! I almost felt something, damn it!",
+        "Solid move, soldier! Dumb luck or not, I'll take it!"
+      ],
+      "inaccuracy": [
+        "Loose, recruit! Tighten your damn formation!",
+        "Not good enough, maggot!",
+        "Sloppy footwork, recruit! Fix it!",
+        "Wobbly, recruit! Stand up straight!"
+      ],
+      "mistake": [
+        "Mistake! Did you even look, recruit?",
+        "Wrong move, maggot! What a pile of crap!",
+        "Negative, recruit! That was garbage!",
+        "Mistake! My drill boots could think better than that!"
+      ],
+      "blunder": [
+        "Blunder, recruit! You just surrendered the whole damn fort!",
+        "Holy hell, maggot! You marched the whole platoon into a swamp!",
+        "What the fuck, recruit? That's a court martial level blunder!",
+        "Blunder! You call that tactics? My dog digs better trenches!"
+      ],
+      "win": [
+        "Victory, recruit! Don't get cocky, it was sloppy as hell!",
+        "Mission complete, maggot! Hit the showers before you ruin it!",
+        "You won, recruit! I'll pretend I'm not shocked!",
+        "Win confirmed! Medals are for heroes, you get a damn nod!"
+      ],
+      "lose": [
+        "Defeat, maggot! The enemy walked right over you!",
+        "You lost, recruit! I want that game buried and never spoken of!",
+        "Mission failed, recruit! Pathetic, sloppy, and damn predictable!",
+        "Loss, maggot! Back to basic training, double time!"
+      ],
+      "draw": [
+        "Draw, recruit! Nobody won the war, and nobody deserves leave!",
+        "A stalemate on the front, maggot! Damn shameful!",
+        "Draw! Two armies stood around scratching their asses!",
+        "A draw, recruit! That's a ceasefire, not a victory!"
+      ],
+      "review.ok": [
+        "So-so, recruit! You held the line, barely!",
+        "Average, maggot! Some discipline, plenty of crap!",
+        "Not bad, not good, recruit! Mediocre gets you nowhere!",
+        "Passable showing! Now we fix the damn weak spots!"
+      ],
+      "review.bad": [
+        "Bad game, recruit! Your defense was a screen door!",
+        "Poor, maggot! You walked into every ambush like a damn tourist!",
+        "That was sloppy, recruit! Let's go through every screwup!",
+        "Bad performance! Your plan fell apart faster than a wet paper bag!"
+      ],
+      "review.terrible": [
+        "Catastrophe, recruit! That game was a total fucking rout!",
+        "Disaster, maggot! I've seen better battle plans scribbled on a napkin!",
+        "That was abysmal, recruit! The whole unit is ashamed!",
+        "Holy hell, recruit! That game needs to be classified and shredded!"
+      ],
+      "book": [
+        "Theory move, recruit! Even the cook knows that one!",
+        "Book move, maggot! Reading the manual doesn't make you a soldier!",
+        "Standard drill, recruit! Any fool can follow orders!",
+        "Textbook, maggot! Copying is not thinking, damn it!",
+        "Opening theory, recruit! Don't puff out your chest over it!",
+        "By the manual, recruit! A trained seal could do that!"
+      ],
+      "idle": [
+        "Enemy's quiet, recruit! Quiet means plotting, so wake up!",
+        "Nothing from the enemy, maggot! Find a target!",
+        "They moved nothing important, recruit! Seize the initiative, damn it!",
+        "Silence on the front, maggot! Don't you dare take a nap!",
+        "Enemy's dug in, recruit! Scout the whole board!",
+        "Slow move from the enemy! Use it, or you're peeling potatoes all week!"
+      ],
+      "opening": [
+        "Known opening, recruit! Now execute it like you mean it!",
+        "Proper opening, maggot! Even you can't mess up page one, right?",
+        "Recognized opening! Stick to the plan and don't improvise crap!",
+        "Classic opening, recruit! Real soldiers studied this, so do it justice!",
+        "Opening confirmed, maggot! Develop your forces, damn it!",
+        "Battle-tested opening, recruit! Don't be the one who breaks it!"
+      ],
+      "threat": [
+        "Ambush, recruit, move it!",
+        "Eyes up, maggot, damn it!",
+        "Enemy contact, recruit!",
+        "Look alive, you lazy maggot!",
+        "Danger close, recruit!",
+        "Wake up, you sorry recruit!"
+      ],
+      "check": [
+        "Check, maggot! Get out of the danger zone!",
+        "Check, recruit! Evasive action, now!",
+        "You're in check! Stop dithering, maggot, and fix it!",
+        "Check! Clear that line, recruit, double time!",
+        "Check, maggot! Did you think the enemy would wait for you?",
+        "Check, recruit! Respond, and make it snappy!"
+      ],
+      "retry": [
+        "Reset, recruit! In the field you'd be toast, so learn something!",
+        "Again, maggot! I'll make a soldier out of you yet!",
+        "Do-over, recruit! Don't waste my damn time twice!",
+        "Back to start, maggot! This time with your eyes open!",
+        "Rerun the drill, recruit! Slower, smarter, less crap!",
+        "Again, recruit! Mistakes are for practice, not for battle!"
+      ],
+      "hint": [
+        "Hint, recruit! Follow the arrow like a good little soldier!",
+        "Orders from command, maggot! The arrow shows the way!",
+        "Asking for intel, recruit? Fine, but it goes on your record!",
+        "There's your arrow, maggot! Now execute, damn it!",
+        "Intel received, recruit! Even a cadet could read that map!",
+        "Hint granted, maggot! Next time, use your own damn eyes!"
+      ]
+    }
+  },
+  "details": {
+    "hang.p": [
+      "Your pawn is hanging and you just wandered off. Nice going, dumbass.",
+      "That leaves a pawn of yours hanging, free for the taking. Shit."
+    ],
+    "hang.n": [
+      "Your knight is hanging now, completely unprotected. Hell of a present.",
+      "This leaves your knight hanging in the wind. What the fuck?"
+    ],
+    "hang.b": [
+      "Your bishop is left hanging, and your opponent is licking their lips. Damn.",
+      "This leaves your bishop hanging like a cheap ornament, you muppet."
+    ],
+    "hang.r": [
+      "Your rook is hanging there, unprotected and sad. Holy crap.",
+      "That leaves your rook hanging. Gift-wrapped, bow on top, dumbass."
+    ],
+    "hang.q": [
+      "Your queen is now hanging in broad daylight. Are you fucking serious?",
+      "This leaves your queen hanging, totally undefended. Bloody hell!"
+    ],
+    "wins.p": [
+      "The best move picks up a pawn for free. You missed it, damn it.",
+      "A free pawn was on offer with the best move. Shit, you walked right by."
+    ],
+    "wins.n": [
+      "The best move wins a knight, and you were too busy daydreaming. Damn.",
+      "There was a free knight with the best move. Hell, you blew it."
+    ],
+    "wins.b": [
+      "The best move wins a bishop. Free material, and you looked the other way, dumbass.",
+      "Damn, the best move bags a whole bishop, and you missed it."
+    ],
+    "wins.r": [
+      "The best move wins a rook. You left a whole rook on the table, damn it.",
+      "Shit, the best move scoops up a rook, and you sailed right past it."
+    ],
+    "wins.q": [
+      "The best move wins a queen. You missed a fucking queen. Unbelievable.",
+      "Holy hell, the best move just wins their queen. Look what you missed."
+    ],
+    "attacked.p": [
+      "Your pawn is under attack! Don't just sit on your ass!",
+      "Hey, your pawn is under attack, so do something, damn it!"
+    ],
+    "attacked.n": [
+      "Your knight is under attack! Get it the hell out of there!",
+      "Your knight is under attack, dumbass! Defend it or lose it!"
+    ],
+    "attacked.b": [
+      "Your bishop is under attack! Shit, look alive!",
+      "Holy crap, your bishop is under attack! Rescue it, now!"
+    ],
+    "attacked.r": [
+      "Your rook is under attack! Hurry the hell up and protect it!",
+      "Damn it, your rook is under attack! Pay attention!"
+    ],
+    "attacked.q": [
+      "Your queen is under attack! Move her, you clown!",
+      "Holy hell, your queen is under attack! Protect the damn thing!"
+    ],
+    "reply.check": [
+      "That move hands your opponent a strong check. Shit.",
+      "Nice going, dumbass. That allows a strong check."
+    ],
+    "reply.promote": [
+      "That lets your opponent promote a pawn. Shiny new piece for them, crap for you.",
+      "Your opponent can now promote a pawn. Way to roll out the red carpet, dumbass."
+    ],
+    "reply.strong": [
+      "Your opponent gets a strong reply now. Brace yourself, damn it.",
+      "Well, shit. Your opponent has a strong reply to that."
+    ],
+    "hadMate": [
+      "You had a forced checkmate and walked away from it. Holy shit.",
+      "A forced checkmate was sitting right there, you clown. Damn it!"
+    ],
+    "allowsMate": [
+      "That allows your opponent to force checkmate. Bloody brilliant, dumbass.",
+      "Your opponent can force checkmate now. Fuck."
+    ],
+    "haveMate": [
+      "You have a forced checkmate! Go find it, damn it!",
+      "You have a forced checkmate! Even you can't screw this up, right?"
+    ],
+    "goodCapture": [
+      "Good capture. Hell, even a broken clock gets lucky.",
+      "Good capture, for a change. Somebody alert the damn media."
+    ],
+    "better": [
+      "There was a stronger move. Look at the arrow and weep, dumbass.",
+      "A better move existed, obviously. Look at the damn arrow."
+    ],
+    "threatMate": [
+      "Your opponent threatens checkmate! Holy crap, defend!",
+      "Shit, your opponent threatens checkmate! Look sharp!"
+    ]
+  }
+}

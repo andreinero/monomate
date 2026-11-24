@@ -1,0 +1,362 @@
+{
+  "sage": {
+    "hello": [
+      "Ah, welcome back. Do try not to embarrass us both too badly today, there's a dear.",
+      "Good afternoon. Let's see what fresh hell you've prepared for me this time.",
+      "Sit down, take a breath, and please, for heaven's sake, think before you move.",
+      "Welcome. I've had my tea, lowered my expectations, and I'm ready for this shit show.",
+      "Hello again. I do enjoy watching you play, the way one enjoys a dental appointment.",
+      "Let's begin, shall we? I've cleared my afternoon to watch you make an ass of yourself."
+    ],
+    "praise": [
+      "Good heavens, a sensible move. I nearly spilled my bloody tea.",
+      "Well, well, a decent move. I suppose miracles do happen on Tuesdays.",
+      "Splendid. I'd applaud, but I fear it would only make you insufferable.",
+      "Good lord, that was correct. Who the hell are you, and where's my student?",
+      "A fine move. Do savour it, I suspect it'll be your last for a while.",
+      "Well, I'll be damned. A genuinely good move. Frame it, darling, it may never happen again."
+    ],
+    "inaccuracy": [
+      "Oh, that's a touch sloppy, isn't it.",
+      "Hmm. Not quite, you lovely little potato.",
+      "A bit wobbly, that. Rather like your whole approach to chess.",
+      "Close, but no bloody cigar.",
+      "Rather careless, old bean. Do keep up.",
+      "Mm, that's a bit crap, I'm afraid."
+    ],
+    "mistake": [
+      "Oh dear. That was a genuinely shit move.",
+      "Ah. And there it goes, straight down the toilet.",
+      "I'm afraid that was a mistake, and a rather daft one at that.",
+      "Good heavens, what the hell was that meant to be?",
+      "I've seen goldfish with sharper judgement, frankly.",
+      "That, my dear, was a proper dog's dinner of a move."
+    ],
+    "blunder": [
+      "Oh, for fuck's sake. That is a catastrophic blunder.",
+      "Magnificent. You've blundered so badly the pieces are embarrassed for you.",
+      "Dear me. A tortoise with a hangover would have played better than that.",
+      "I taught you better than that, you absolute muppet. A colossal blunder.",
+      "Well, that's fucked it. A blunder of truly historic stupidity.",
+      "Remarkable. In forty years of teaching I've never seen anything so bloody daft."
+    ],
+    "win": [
+      "You won. I'm as shocked as you are, quite frankly.",
+      "A victory. Your opponent must have been even more of a muppet than you.",
+      "Good heavens, you actually won. I shall alert the press.",
+      "Congratulations. It was ugly as sin, but a win is a damned win.",
+      "Splendid, you won. Let's never speak of how you got there.",
+      "A win, by heavens. Messy, dreadful, and utterly undeserved, but I'll take it."
+    ],
+    "lose": [
+      "Well, that was a bloody massacre. Not entirely unexpected, mind you.",
+      "You lost. I'd say I'm surprised, but I was raised not to lie.",
+      "A defeat. Your opponent barely broke a sweat, the lucky bastard.",
+      "Ah well. You played like a damp biscuit and got dunked accordingly.",
+      "Lost again. At this point, losing is less a result and more a hobby.",
+      "That was painful to watch. I may need something stronger than tea."
+    ],
+    "draw": [
+      "A draw. Neither of you had the faintest bloody idea, did you?",
+      "Honours even, which is to say you were both equally hopeless.",
+      "A draw. Like watching two pigeons squabble over a single crisp.",
+      "Well, you didn't lose, which by your standards is a damned triumph.",
+      "A draw. How wonderfully, thunderously pointless.",
+      "A draw. You and your opponent were clearly sharing one brain cell."
+    ],
+    "review.ok": [
+      "A mediocre game. Not a disaster, but nothing to write home about either.",
+      "Rather average, I'm afraid. The beige wallpaper of chess games.",
+      "Passable. A few good ideas, buried under a steaming pile of crap.",
+      "Middling stuff. You stumbled about like a tourist without a map.",
+      "Not dreadful, not good. Thoroughly, damnably adequate.",
+      "A lukewarm cup of tea of a game. Drinkable, but nobody's impressed."
+    ],
+    "review.bad": [
+      "Well, that was a right bloody mess. Let's see where it all went wrong.",
+      "A poor game. You had chances and pissed nearly all of them away.",
+      "Dreadful, frankly. I've seen better decisions from a startled pigeon.",
+      "That game was a shambles, darling. A shambles with extra crap on top.",
+      "Not good. You played like you'd only heard of chess this morning.",
+      "Oh dear. That was bad, and you know damn well it was bad."
+    ],
+    "review.terrible": [
+      "Good heavens. That was the worst game I've seen since the board was invented.",
+      "An absolute fucking catastrophe, from the first move to the last.",
+      "That game was so awful I briefly considered taking up gardening instead.",
+      "Bloody hell. That wasn't a game of chess, it was a natural disaster.",
+      "A complete shit show. Pour yourself a drink and let's have a look.",
+      "Truly appalling. A potato in a waistcoat would have done better."
+    ]
+  },
+  "bolt": {
+    "hello": [
+      "Ladies and gentlemen, the human highlight reel of disasters is back! Let's fucking go!",
+      "Game day, champ! Let's see how fast you can screw this up!",
+      "Welcome back to the show, folks, where our player sucks and the crowd loves it!",
+      "Alright, superstar, lace up those clown shoes and let's play some damn chess!",
+      "Here we go! The odds are terrible, the crowd is rowdy, and so is your strategy!",
+      "It's showtime, baby! Try not to trip over your own shit in the first minute!"
+    ],
+    "praise": [
+      "Holy shit, a decent move! Mark the calendar, folks!",
+      "Whoa, did that just happen? Somebody check the replay, this can't be real!",
+      "And the rookie finally does something right! The crowd goes absolutely apeshit!",
+      "Look at that, a good move! Even a garbage team scores sometimes!",
+      "Damn, champ! Where the hell has that been all season?",
+      "Good move! Don't get excited, it's probably a fluke, but hell yeah!"
+    ],
+    "inaccuracy": [
+      "Ooh, sloppy footwork there, champ!",
+      "Little wobble! Come on, pick up your damn feet!",
+      "And that's a shanked kick, folks!",
+      "Meh! That's some lazy-ass play!",
+      "Off the post! Not great, champ, not great!",
+      "Ugh, a weak pass right into traffic!"
+    ],
+    "mistake": [
+      "Fumble! The crowd is booing, and honestly, they're right!",
+      "Oh, what the hell was that? A real stinker!",
+      "That's an own goal, folks! Unbelievable crap!",
+      "Ooh, flag on the play! That move was garbage!",
+      "Holy crap, that's an ugly turnover!",
+      "And the rookie trips over the damn ball!"
+    ],
+    "blunder": [
+      "Holy shit, what a fucking disaster! Worst play of the season!",
+      "Folks, I've seen turtles with better instincts. That was a blunder for the ages!",
+      "Shoot it into your own net, why don't you! Absolute bullshit blunder!",
+      "Ladies and gentlemen, that's the dumbest move I've seen in my entire career!",
+      "And the clown fumbles at the goal line! Unbelievable, you magnificent moron!",
+      "Oh, come the fuck on! A toddler with a juice box would play better than that!"
+    ],
+    "win": [
+      "You won! I have no idea how, but the scoreboard doesn't lie! Hell yeah!",
+      "Victory! Ugliest win of the season, but damn, we'll take it!",
+      "And the underdog steals it! Your opponent is gonna be so pissed!",
+      "A win! Somebody call the record books, it's a damn miracle!",
+      "Champion! A sloppy, lucky, ridiculous champion, but holy shit, a champion!",
+      "Winner winner! Don't let it go to your head, you got lucky as hell!"
+    ],
+    "lose": [
+      "And that's the final whistle! You got your ass handed to you, champ!",
+      "Brutal loss, folks! That was a blowout of epic proportions!",
+      "Game over! Tough break, but honestly, you played like hot garbage!",
+      "And the crowd heads for the exits early! What a shit show!",
+      "You lost! Shake it off, champ, but your opponent will be bragging for weeks!",
+      "Ouch! That's going on the blooper reel, and it's the whole damn game!"
+    ],
+    "draw": [
+      "A draw! Two teams, zero goals, and a stadium full of bored fans!",
+      "Tie game! Nobody won, nobody cared, and that's the damn truth!",
+      "And it ends level! Like watching paint dry, but with more crap moves!",
+      "A draw! Somebody wake the crowd up, they fell asleep in the second half!",
+      "Even steven! You didn't win, but hell, at least you didn't choke!",
+      "It's a tie, folks! Two clowns, one circus, no winner!"
+    ],
+    "review.ok": [
+      "Middle of the table stuff, champ! Not great, not total crap either!",
+      "That game was a solid meh! Some hustle, plenty of sloppy-ass mistakes!",
+      "Mediocre performance! The coach is not impressed, and the fans want refunds!",
+      "A few highlights, a whole lot of bloopers! Let's break it down!",
+      "Average game, champ! Bench-warmer energy, but hey, you showed up!",
+      "You played like a mid-season backup! Not awful, just damn forgettable!"
+    ],
+    "review.bad": [
+      "Rough game, champ! The highlight reel is gonna be real damn short!",
+      "That was ugly, folks! Cover the kids' eyes ugly!",
+      "Bad game! You fumbled more than a greased-up rookie in the rain!",
+      "Oof! That game was a bunch of crap with a few lucky bounces!",
+      "Not your night, champ! You got outplayed, outhustled, and out-everythinged!",
+      "Bad game, buddy! The fans are throwing their snacks at the screen!"
+    ],
+    "review.terrible": [
+      "Holy shit, that was the worst performance in franchise history!",
+      "That game was a dumpster fire, folks! A flaming, stinking dumpster fire!",
+      "Ladies and gentlemen, that wasn't a game, that was a fucking crime against chess!",
+      "Disaster! The team bus would've played better, and it doesn't even have hands!",
+      "Total catastrophe! Even the mascot is ashamed to be seen with you!",
+      "Worst game ever, champ! I'm gonna need the whole damn tape deleted!"
+    ]
+  },
+  "nova": {
+    "hello": [
+      "Welcome back, test subject! Let's see how badly the experiment fails today!",
+      "Hi! My hypothesis: you'll screw this up. Let's gather the data!",
+      "Oh good, my favorite specimen of chess incompetence has returned!",
+      "Hello! Today's experiment: can a human play worse than a random number generator?",
+      "Lab coats on! Goggles too, because your moves tend to explode in your damn face.",
+      "Greetings, subject! I've prepared a petri dish for your shitty little ideas."
+    ],
+    "praise": [
+      "Holy crap, a competent move! I need to recalibrate my instruments!",
+      "Fascinating! A good move! That's a statistical anomaly if I ever saw one!",
+      "Wait, that was actually correct? Peer review will never believe this crap!",
+      "Whoa, a good move! Somebody write this down before it decays!",
+      "Interesting! Your brain cells finally formed a working circuit! Damn!",
+      "Good move! I'm marking it as an outlier and moving the hell on."
+    ],
+    "inaccuracy": [
+      "Hmm, the data looks a little shitty there.",
+      "Slight contamination in the sample!",
+      "Ooh, that's a measurable amount of dumbass.",
+      "Error bars just got bigger, genius!",
+      "Hmm, that's not optimal, and you damn well know it.",
+      "Minor deviation from basic competence detected!"
+    ],
+    "mistake": [
+      "Hypothesis rejected, you absolute moron!",
+      "Well, that experiment just went to shit!",
+      "Fascinating! A brand new way to be wrong!",
+      "Oh no, the results are crap, and so was that move!",
+      "Error! Even my lab rats would have avoided that!",
+      "Uh oh, that's a peer-reviewed mistake, dumbass!"
+    ],
+    "blunder": [
+      "Kaboom! You just blew up the whole damn lab!",
+      "Incredible! That's the dumbest result in the history of science!",
+      "Experiment failed catastrophically! A goldfish would have scored higher on that test!",
+      "What the fuck was that? I need to publish this as a warning!",
+      "Even a slime mold makes better decisions, and it doesn't have a brain!",
+      "Holy crap! You've discovered a new level of stupidity! Nobel prize for nonsense!"
+    ],
+    "win": [
+      "Result confirmed, you won! I'm checking my equipment for faults!",
+      "You won? That defies every law of physics I know! Damn!",
+      "Victory! The data says it was pure luck, but hell, I'll log it!",
+      "Success! Somehow the dumbest experiment of the year actually worked!",
+      "A win! I'd try to replicate it, but let's be honest, that was a fluke.",
+      "Fascinating! Your opponent clearly ran an even shittier experiment. Science!"
+    ],
+    "lose": [
+      "And the experiment fails, exactly as predicted! Shitty, but consistent!",
+      "You lost! The data is clear: you got absolutely wrecked!",
+      "Defeat! I'm filing this under predictable outcomes, subsection crap.",
+      "Well, that went to hell! Great data for my paper on human stupidity!",
+      "You lost! Failure is the foundation of science, so you're basically a genius!",
+      "Lost again! At this point you're a reliable control group for bad chess!"
+    ],
+    "draw": [
+      "A draw! Two equally flawed specimens canceled each other out!",
+      "Equilibrium achieved! Nobody won, and it's scientifically boring as hell!",
+      "A draw! Like mixing two shitty chemicals and getting plain water!",
+      "Neutral result! The universe shrugged, and frankly, so did I!",
+      "A draw! Inconclusive data, much like your whole damn strategy!",
+      "It's a tie! Two monkeys, one typewriter, zero masterpieces!"
+    ],
+    "review.ok": [
+      "Mediocre results! The data is about as exciting as wet cardboard!",
+      "Average game! Some decent signals buried in a whole lot of noise!",
+      "Not terrible, not good! A perfectly beige data set!",
+      "Hmm, middling stuff! Half science, half crap!",
+      "Results are lukewarm! I wouldn't publish this, but I wouldn't frame it either!",
+      "Meh! I'd give that game a solid shrug on the peer review scale!"
+    ],
+    "review.bad": [
+      "Well, that data set is a mess! Let's find where it went to hell!",
+      "Bad game! Your sample was contaminated by terrible decisions!",
+      "That experiment was a shitty one! Let's dissect the failure!",
+      "Ugh! The graph of your play only goes downhill!",
+      "Poor results! Even the lab hamster is shaking its little head!",
+      "That was bad! My instruments recorded a full hour of dumbassery!"
+    ],
+    "review.terrible": [
+      "Holy shit! That game should be studied as a warning to future generations!",
+      "Catastrophic failure! The lab is on fire and it's your fucking fault!",
+      "That was the worst experiment ever conducted, and I've seen cold fusion attempts!",
+      "Total disaster! A colony of bacteria would have outplayed you!",
+      "I've analyzed thousands of games, and that was the absolute crappiest!",
+      "Data corrupted! No, wait, that's just how terribly you played!"
+    ]
+  },
+  "knox": {
+    "hello": [
+      "Listen up, recruit! Today you play chess, not whatever the hell you did last time!",
+      "On your feet, maggot! Let's see how fast you can disappoint me today!",
+      "Welcome back, recruit! I've seen sturdier minds in a bowl of soup!",
+      "Eyes front, recruit! Screw this up and you're scrubbing latrines for a week!",
+      "Fall in, you sorry sack of crap! It's chess time!",
+      "Good morning, recruit! My expectations are on the floor, try to meet them anyway!"
+    ],
+    "praise": [
+      "Son of a gun, a correct move! Don't let it go to your head, recruit!",
+      "That was a good move, recruit. Pure dumb luck, but I'll allow it!",
+      "Outstanding! Who the hell taught you that? Certainly not me!",
+      "Correct! Now do it again, you lucky bastard!",
+      "Finally, a move that doesn't make me want to scream into a pillow!",
+      "Good! Was that so damn hard, recruit?"
+    ],
+    "inaccuracy": [
+      "Sloppy, recruit! Tighten that shit up!",
+      "What was that, recruit? Half-assed!",
+      "Lazy move, maggot! I've seen sharper spoons!",
+      "Close isn't good enough, recruit! Damn it!",
+      "Did I say slack off, recruit? I did not!",
+      "Imprecise, recruit! My grandmother plays tighter than that!"
+    ],
+    "mistake": [
+      "What in the hell was that, recruit?",
+      "Mistake! You call that a move? I call it crap!",
+      "Unacceptable, maggot! That's a damn mistake!",
+      "Who authorized that garbage, recruit? Nobody, that's who!",
+      "Recruit, that move was dumber than a bag of hammers!",
+      "Mistake, recruit! Get your head out of your ass!"
+    ],
+    "blunder": [
+      "What the fuck was that, recruit? Drop and give me fifty!",
+      "Blunder! You total moron, even a fucking turtle plays better than you!",
+      "Holy shit, recruit! That's the worst move I've seen in twenty years of service!",
+      "Are you trying to lose, recruit? Because you're doing a damn fine job!",
+      "Blunder! I've seen potatoes with better battlefield awareness, you clown!",
+      "Unbelievable! My boots have more tactical sense than you, maggot!"
+    ],
+    "win": [
+      "Mission accomplished, recruit. Ugly as hell, but accomplished.",
+      "You won? Well, I'll be. Don't get comfortable, maggot!",
+      "Victory, recruit! Sloppy, lucky, and barely legal, but a damn victory!",
+      "A win! Dismissed, recruit, before you find a way to screw it up!",
+      "Good work, recruit! Now wipe that smug grin off your damn face!",
+      "You won! Enjoy it, maggot, because tomorrow we train twice as hard!"
+    ],
+    "lose": [
+      "Defeat, recruit! You got steamrolled like a damn rookie!",
+      "You lost, maggot! Was that a battle plan or a grocery list?",
+      "Pathetic, recruit! The enemy strolled through your defenses like a damn park!",
+      "You lost! I want a full report on that shit show by oh six hundred!",
+      "Defeat! You fought like a wet noodle, recruit!",
+      "Lost again, recruit! Get your sorry ass back on the board!"
+    ],
+    "draw": [
+      "A draw, recruit. Not a win. Not good enough, damn it!",
+      "A draw! Nobody surrendered, and nobody did a damn thing right!",
+      "A draw, maggot! I didn't train you to shake hands, I trained you to win!",
+      "Draw! Half a result for half-assed play, recruit!",
+      "A tie! You and the enemy were equally useless, recruit!",
+      "A draw! Congratulations, recruit, you achieved spectacular mediocrity!"
+    ],
+    "review.ok": [
+      "Mediocre, recruit! Not a disaster, but nobody's giving you a medal!",
+      "Acceptable, barely! You played like you were half asleep, recruit!",
+      "Average performance, recruit! Average gets you scrubbing toilets!",
+      "Some good moves, some crap moves! Tighten up, recruit!",
+      "Passable, maggot! But passable doesn't win wars!",
+      "That game was lukewarm, recruit! I want fire, not this tepid nonsense!"
+    ],
+    "review.bad": [
+      "Sloppy as hell, recruit! We're going through every damn mistake!",
+      "Bad game, maggot! Your strategy had more holes than a cheap sock!",
+      "That was ugly, recruit! I've seen better tactics from a herd of cows!",
+      "A poor showing, recruit! You marched straight into every trap like a clown!",
+      "Bad! You played like you'd lost your damn map and your compass!",
+      "Unacceptable, recruit! That game belongs in the trash with your excuses!"
+    ],
+    "review.terrible": [
+      "Holy shit, recruit! That was the worst game in the history of this unit!",
+      "A complete fucking disaster, recruit! From start to finish!",
+      "Catastrophic, maggot! A sack of potatoes would have put up more resistance!",
+      "That wasn't a game, recruit, that was a full retreat from the first damn move!",
+      "Terrible, recruit! I'm gonna need a stiff drink and a new recruit!",
+      "Disgraceful! I've seen cleaner work from a raccoon in a garbage can!"
+    ]
+  }
+}

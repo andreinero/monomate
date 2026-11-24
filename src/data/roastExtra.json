@@ -1,0 +1,278 @@
+{
+  "coaches": {
+    "sage": {
+      "book": [
+        "Opening theory. Even a well-trained parrot could manage that, darling.",
+        "Straight from the book. Memorising isn't thinking, but it'll bloody do.",
+        "Textbook stuff. A monkey with a library card could have played it.",
+        "Ah, theory. How marvellous that you can at least copy your homework."
+      ],
+      "idle": [
+        "Your opponent is dawdling. Do make something of it, for heaven's sake.",
+        "A quiet move from them. Don't waste it like you waste everything else.",
+        "Nothing much happened, which is frankly the best news you've had all game.",
+        "They're pottering about, darling. Now's your chance not to make a pig's ear of it."
+      ],
+      "opening": [
+        "A respectable opening. Pity about the person playing it.",
+        "Ah, a proper opening. Do try not to piss all over it.",
+        "A distinguished opening, about to be thoroughly ruined, I expect.",
+        "Lovely opening. Centuries of masters, and now you. Bloody hell."
+      ],
+      "threat": [
+        "Oh, bloody hell.",
+        "Hold on to your tea, darling.",
+        "Look sharp, you muppet.",
+        "Good heavens, wake up."
+      ],
+      "check": [
+        "Check, darling. Do sort that out before it gets bloody embarrassing.",
+        "You're in check. Kindly stop gawping and deal with it.",
+        "Check. Find a way out, and do spare me the dithering.",
+        "Check, old bean. Tidy up that damned mess at once."
+      ],
+      "retry": [
+        "Another go? Very well. Try using your brain this time, old bean.",
+        "Rewinding the clock. If only you could rewind your bloody judgement too.",
+        "Second attempt. Do try to make it less of a dog's breakfast.",
+        "Again, then. Even you can't botch it the same damned way twice, surely."
+      ],
+      "hint": [
+        "A hint? Very well. Follow the arrow, you hopeless creature.",
+        "Here's the answer, darling. Do try to look like you understand it.",
+        "Asking for help again. How refreshingly honest about your limitations.",
+        "There's the arrow. Do try not to bugger it up, there's a dear."
+      ]
+    },
+    "bolt": {
+      "book": [
+        "Book move! Wow, champ, you can read! The crowd is stunned!",
+        "Straight out of the playbook! Even a chimp can copy plays, but hey, nice!",
+        "Theory move! Copying the answers like a pro, baby!",
+        "Textbook! Don't get cocky, champ, a monkey could memorize that shit!"
+      ],
+      "idle": [
+        "Quiet move from the other side! They're napping, so wake the hell up!",
+        "Nothing doing over there, folks! Your turn to do something not stupid!",
+        "They're stalling, champ! Don't just stand there like a damn traffic cone!",
+        "Slow play from the opponent! The crowd is yawning, give them something!"
+      ],
+      "opening": [
+        "Big-time opening, folks! Now watch our rookie screw it all up!",
+        "Fancy opening, champ! Shame the player is a total bench warmer!",
+        "Ooh, a real opening! The pros play this, and now so does this clown!",
+        "Classic opening, baby! Let's see how fast it goes to shit!"
+      ],
+      "threat": [
+        "Uh oh, danger zone, champ!",
+        "Holy crap, heads up!",
+        "Defense, damn it, defense!",
+        "Whoa, wake the hell up!"
+      ],
+      "check": [
+        "Check! Get out of there before you get your ass sacked!",
+        "You're in check, champ! Stop waving at the crowd and fix it!",
+        "Check! That's a blitz, folks, and our rookie looks lost as hell!",
+        "Check, buddy! Scramble, damn it, scramble!"
+      ],
+      "retry": [
+        "Instant replay! Let's pretend that shitty play never happened!",
+        "Do-over! Only in this league, champ, and only because you suck!",
+        "Run it back, champ! And this time, maybe use your damn head!",
+        "Mulligan! The refs are being way too generous with you, buddy!"
+      ],
+      "hint": [
+        "Need the coach to draw up the play? Fine, follow the damn arrow!",
+        "There's the arrow, champ! Even a benchwarmer could run this play!",
+        "Hint time! The crowd is laughing at you, but hey, take the help!",
+        "Asking for help again? The fans are chanting your name, sarcastically!"
+      ]
+    },
+    "nova": {
+      "book": [
+        "Opening theory! Even my lab monkey memorized that one!",
+        "Book move! Copying other people's results, how very scientific of you!",
+        "Textbook stuff! Replicating known data doesn't make you a genius, dumbass!",
+        "Theory! Congratulations, your memory works, unlike the rest of your damn brain!"
+      ],
+      "idle": [
+        "A quiet move from them! Observe carefully, for once in your shitty career!",
+        "Opponent is being boring! A perfect window for you to screw up spontaneously!",
+        "Low activity on their side! Try not to contaminate the sample, genius!",
+        "Hmm, they did nothing! The data says you'll still find a way to make it worse!"
+      ],
+      "opening": [
+        "A known opening! A proven formula, about to be ruined by a failed experiment!",
+        "Ooh, a classic! Let's see how quickly you turn it into toxic sludge!",
+        "A recognized opening! Real scientists built this, and now you get to wreck it!",
+        "Classic opening detected! Prediction: it goes to hell within ten moves!"
+      ],
+      "threat": [
+        "Alarm! Containment breach!",
+        "Uh oh, warning lights, dumbass!",
+        "Hazard detected, holy crap!",
+        "Goggles on, genius!"
+      ],
+      "check": [
+        "Check! Your experiment is about to blow up, fix it!",
+        "Check! Stop drooling on the controls and find an escape!",
+        "Check detected! Run, little lab rat, run!",
+        "Check! Evacuate, you walking safety violation!"
+      ],
+      "retry": [
+        "Restarting the experiment! Try not to blow up the lab twice!",
+        "Second trial! Same subject, same shitty brain, let's see!",
+        "Retry! Let's run that test again with slightly less stupidity!",
+        "Rewinding! Good thing I keep backups of your damn failures!"
+      ],
+      "hint": [
+        "A hint! Follow the arrow, test subject, it's smarter than you!",
+        "Fine, here's the answer! Don't tell the review board I spoon fed you!",
+        "Hint deployed! Even a lab rat gets a little cheese sometimes!",
+        "Asking for help? The experiment admits defeat! Look at the damn arrow!"
+      ]
+    },
+    "knox": {
+      "book": [
+        "Book move, recruit! Any monkey with a manual can do that!",
+        "Theory, recruit! Memorizing shit isn't fighting, but it'll do!",
+        "By the book, maggot! Don't expect a damn medal for copying!",
+        "Textbook move! Even a parrot in a helmet could manage that, recruit!"
+      ],
+      "idle": [
+        "Enemy's sitting still, recruit! Use it before you piss it away!",
+        "Quiet move from the enemy! Don't you dare relax, maggot!",
+        "They're stalling, recruit! Stop daydreaming and scan the damn board!",
+        "Nothing from the enemy! That's not a vacation, that's an opportunity, maggot!"
+      ],
+      "opening": [
+        "Proper opening, recruit! Now don't fuck it up!",
+        "Standard opening, maggot! Real soldiers built it, try not to wreck it!",
+        "Known opening! Even you can't screw up the first few moves, right? Right?",
+        "Classic opening, recruit! Develop, control the center, and stop being useless!"
+      ],
+      "threat": [
+        "Incoming, you sorry maggot!",
+        "Heads up, recruit, damn it!",
+        "Hostiles, wake the hell up!",
+        "Red alert, you clown!"
+      ],
+      "check": [
+        "Check, recruit! Move your sorry ass out of the line of fire!",
+        "You're in check, maggot! Fix it now, not next week!",
+        "Check! Sort it out, recruit, before this turns into a court martial!",
+        "Check! Don't just stand there gawking, recruit, deal with it!"
+      ],
+      "retry": [
+        "Do it again, recruit! And this time use your damn brain!",
+        "Retry, maggot! In real combat you don't get do-overs, you lucky bastard!",
+        "Again! Get it right or you're running laps till sunrise!",
+        "Second chance, recruit! Waste this one and you're on latrine duty!"
+      ],
+      "hint": [
+        "A hint? Fine! Follow the arrow, maggot, it outranks you!",
+        "Need help already, recruit? Look at the arrow and learn something, damn it!",
+        "Hint authorized, maggot! Don't get used to it!",
+        "Here are your orders, recruit! The arrow knows more about tactics than you do!"
+      ]
+    }
+  },
+  "details": {
+    "hang.p": [
+      "This leaves your pawn hanging like a fucking pinata.",
+      "Your pawn is left hanging out there all alone. Damn careless."
+    ],
+    "hang.n": [
+      "You left your knight hanging, completely undefended. Brilliant fucking work.",
+      "This leaves your knight hanging. Somebody's getting a free horse, dumbass."
+    ],
+    "hang.b": [
+      "This leaves your bishop hanging. Hell of a gift for your opponent.",
+      "Your bishop is now hanging out to dry, you absolute clown."
+    ],
+    "hang.r": [
+      "This leaves your rook hanging. Free rook, courtesy of you, dumbass.",
+      "You just left your rook hanging like wet laundry. Damn."
+    ],
+    "hang.q": [
+      "This leaves your queen hanging. Holy shit, your queen!",
+      "You left your queen hanging, free of charge. What the fuck?"
+    ],
+    "wins.p": [
+      "The best move wins a pawn, and you walked right past it, damn it.",
+      "You missed a free pawn. The best move just takes the damn thing."
+    ],
+    "wins.n": [
+      "The best move wins a knight. You missed a free horse, genius.",
+      "There was a knight up for grabs with the best move, and you pissed it away."
+    ],
+    "wins.b": [
+      "The best move wins a bishop. You just ignored a free bishop, dumbass.",
+      "A whole bishop was there for the taking with the best move. Damn shame."
+    ],
+    "wins.r": [
+      "The best move wins a rook. A free fucking rook, and you missed it.",
+      "You could have won a rook with the best move. Instead, this crap."
+    ],
+    "wins.q": [
+      "The best move wins a queen. A whole damn queen, and you walked past it!",
+      "The best move grabs their queen. You missed the jackpot, you clown."
+    ],
+    "attacked.p": [
+      "Your pawn is under attack, so wake the hell up!",
+      "Heads up, dumbass, your pawn is under attack!"
+    ],
+    "attacked.n": [
+      "Your knight is under attack! Save the damn horse!",
+      "Hey, your knight is under attack, so stop staring and do something!"
+    ],
+    "attacked.b": [
+      "Your bishop is under attack! Do something before it gets eaten, damn it!",
+      "Wake up, your bishop is under attack, you clown!"
+    ],
+    "attacked.r": [
+      "Your rook is under attack! Move your ass and save it!",
+      "Hell, your rook is under attack! Don't just sit there!"
+    ],
+    "attacked.q": [
+      "Your queen is under attack! Holy shit, do something!",
+      "Your fucking queen is under attack! Save her, now!"
+    ],
+    "reply.check": [
+      "That move lets your opponent give you a nasty fucking check.",
+      "Brilliant, now your opponent gets a strong check. Damn it."
+    ],
+    "reply.promote": [
+      "That lets your opponent promote a pawn. Say hello to their shiny new piece, dumbass.",
+      "Great, now your opponent gets to promote a pawn. Hell of a gift."
+    ],
+    "reply.strong": [
+      "Your opponent now has a strong reply, and it's going to hurt like hell.",
+      "That hands your opponent a strong reply on a silver fucking platter."
+    ],
+    "hadMate": [
+      "You had a forced checkmate, and you pissed it away! Unbelievable!",
+      "There was a forced checkmate right there, and you fucking missed it!"
+    ],
+    "allowsMate": [
+      "That lets your opponent force checkmate. Well, shit.",
+      "Congratulations, your opponent can now force checkmate. What the hell?"
+    ],
+    "haveMate": [
+      "You have a forced checkmate! Don't fuck it up now!",
+      "Holy shit, you actually have a forced checkmate! Finish the damn job!"
+    ],
+    "goodCapture": [
+      "Good capture. Hell, I didn't think you had it in you.",
+      "Nice capture, for once. Don't let it go to your damn head."
+    ],
+    "better": [
+      "There was a stronger move, dumbass. Look at the damn arrow.",
+      "A much stronger move was right there. Look at the arrow, for fuck's sake."
+    ],
+    "threatMate": [
+      "Your opponent threatens checkmate! Wake the hell up!",
+      "Holy shit, your opponent is threatening checkmate! Do something!"
+    ]
+  }
+}

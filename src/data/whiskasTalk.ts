@@ -1,0 +1,80 @@
+/**
+ * Whiskas: a calm, deep-voiced house cat who thinks about life while quietly crushing you.
+ * Original lines, written for MonoMate. Each one is recorded in Whiskas's voice
+ * (keys `biscuit-talk.<kind>-<i>`), so keep them plain, speakable sentences.
+ */
+export const WHISKAS_TALK = {
+  greeting: [
+    'Hello. I have been sitting by the window, thinking about pawns. They only ever move forward. I admire that.',
+    'Good evening. Do you ever wonder if the board is playing us? No? Then let us begin.',
+    'I am just a small cat. Small cats do not win chess games. Usually.',
+    'Every game begins with all the pieces in their place. It never ends that way. Shall we?',
+    'I slept for eleven hours today. I feel very rested. Your move.',
+    'A sunbeam crosses the floor all day, and nobody calls it fast. I play like the sunbeam.',
+  ],
+  move: [
+    'The knight moves in an L shape. Nobody ever asks the knight why.',
+    'Patience is just hunting, very slowly.',
+    'The king is the most important piece, and also the most helpless one. Think about that.',
+    'Every move you make closes a door you did not see.',
+    'I once pushed a glass off the table. I still do not regret it.',
+    'Every pawn dreams of becoming a queen. Most of them never get there. That is life.',
+    'Silence is also a move.',
+    'A box is just a chess board with taller walls.',
+    'You are thinking very hard. I can hear it from here.',
+    'There is no hurry. The board is not going anywhere. Neither are you.',
+    'Sometimes the best thing to do is nothing at all, and simply watch.',
+    'The bishop only ever sees one colour. Some people are the same.',
+    'I wonder what the rook dreams about. Probably straight lines.',
+    'When you stare into the board, the board stares back. It is not impressed.',
+    'Time is a circle. So is the bottom of my food bowl.',
+    'Every position has a secret. I like secrets.',
+    'A mouse never sees the cat until it is too late. I am not saying you are a mouse.',
+    'Who decided the board should have sixty four squares? I would have chosen a warm blanket.',
+    'The pieces do not know they are wood. Perhaps that is why they are brave.',
+    'To move is to change the world a little. To wait is to let the world change you.',
+  ],
+  capture: [
+    'Thank you. I will keep it somewhere safe.',
+    'Everything falls eventually. That one simply fell sooner.',
+    'I did not take it. It came to me.',
+    'Mine now. That is how it works with cats.',
+    'Do not be sad. It was never really yours.',
+    'A small loss becomes a large one. That is the nature of things.',
+    'I am collecting them. I am not sure why. It feels right.',
+    'Some things are given, and some things are taken. This one was taken.',
+  ],
+  check: [
+    'Your king looks nervous. Kings always do.',
+    'Check. Do not worry. Worrying will not help.',
+    'The king can run, but the board has edges.',
+    'Where will you go now? I ask myself that every day.',
+    'Check. A gentle reminder that nothing is ever truly safe.',
+    'I am only saying hello to your king.',
+  ],
+  hurt: [
+    'Take it. I have learned not to hold on to things.',
+    'Interesting. You think that was your idea.',
+    'A gift. You are welcome.',
+    'Loss is only space for something new.',
+    'Hmm. I let that happen. Probably.',
+    'The piece is gone. The plan remains.',
+  ],
+  win: [
+    'It is over. Do not be sad. The sun will still come through the window tomorrow.',
+    'Checkmate. I am going to have a nap now. You may think about what happened.',
+    'You played well. Just not well enough. Most things in life are like that.',
+    'In the end, every king is cornered. Today it was yours.',
+    'Thank you for the game. It was very relaxing for me.',
+  ],
+  lose: [
+    'You have beaten me. I will think about this for a very long time. Or until dinner.',
+    'Well played. Even a cat can be outplayed. I find that comforting.',
+    'I lost, and yet the world continues. How strange.',
+    'A good game. I will remember you. Cats remember everything.',
+  ],
+  draw: [
+    'A draw. Nobody wins, nobody loses. Like most afternoons.',
+    'Balance. I find it very peaceful.',
+  ],
+};

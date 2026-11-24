@@ -1,0 +1,461 @@
+{
+ "coaches": {
+  "sage": {
+   "inaccuracy": [
+    "Oh, bollocks. Not a disaster, but a lazy, slapdash little turd of a move.",
+    "That was shit. Small shit, granted, but shit all the same.",
+    "Sloppy as fuck, darling. Do you even look at the board, or just wave at it?",
+    "For fuck's sake, that was nearly right. Nearly right is how idiots describe wrong.",
+    "A small error, and I still hate it. I hate it rather a lot, actually.",
+    "You had a perfectly good move and chose a worse one. Bloody typical, you sod.",
+    "Not a catastrophe. Merely the opening act of one, knowing you.",
+    "Half-arsed rubbish. You can't even be properly wrong, can you, you dithering prat.",
+    "That move made my tea go cold out of sheer disappointment. Shoddy fucking work.",
+    "Good God, so careless. Forty years of teaching, and this is the shit I get."
+   ],
+   "mistake": [
+    "Oh, you absolute wanker. That was a proper mistake, and you walked into it whistling.",
+    "That move was shit. Not clever shit, not interesting shit. Just shit.",
+    "I've had more strategic thought from the fucking fireplace poker.",
+    "Bollocks. You looked at the whole board and still picked the stupidest square on it.",
+    "Was that a plan? Because it played like a sneeze with a chess piece in it.",
+    "Fucking hell. I could hear my years of teaching circling the drain just then.",
+    "You daft sod. That move had all the foresight of a pigeon on a motorway.",
+    "Every time you touch a piece, a chess teacher somewhere quietly gives up.",
+    "Oh, splendid. Another festering pile of shit, delivered with total confidence.",
+    "That was wrong, you dozy arse, and some part of you knew it was wrong.",
+    "I genuinely despise that move. I'd have it banished from the board forever if I could.",
+    "Bloody hell, did you lose a bet? Because that move looks like a forfeit.",
+    "Your pieces trusted you, you prick. Look what you've done to them.",
+    "That mistake was so obvious the pawns were shouting at you. Fucking listen next time.",
+    "Brilliant. You've turned a decent position into a sodding mess in one move."
+   ],
+   "blunder": [
+    "You fucking clown. You've just thrown the entire game in the bin and set the bin on fire.",
+    "I hate that move. I hate it with every fibre of my tired old soul.",
+    "Oh, fuck me. Forty years of teaching, and it all ends with this pile of shit.",
+    "Bollocks, bollocks, bollocks. You absolute walking catastrophe. That was the game, gone.",
+    "Congratulations, you colossal wanker. You've blundered so hard I've dropped my bloody biscuit.",
+    "That is the single stupidest fucking move I have ever had the misfortune to witness.",
+    "Right. I'm done. I'm going to sit by the fire and pretend I never met you.",
+    "Did you do that on purpose? Because if not, that's even fucking worse.",
+    "Holy shit. You didn't just lose a piece, you lost my respect, permanently.",
+    "Sweet merciful fuck. A sleeping tortoise would have seen that coming a week ago.",
+    "You useless sod. I've spent decades teaching chess, and you've personally made it all pointless.",
+    "That move is so fucking bad it should be studied, as a warning to future generations.",
+    "Oh, marvellous. You've handed them the game on a silver platter, you spineless prat.",
+    "I've seen better decisions from a drunk pigeon falling down a chimney. Absolute shite.",
+    "My tea's gone cold, my fire's gone out, and you've just shat the whole bloody game away.",
+    "Fuck off. That move is an insult to the board, the pieces, and me personally.",
+    "You absolute arse. All you had to do was not that. Literally anything but that.",
+    "That blunder will haunt me. I'll be lying awake at night, hating you specifically.",
+    "Well, that's fucked it completely. Pack it in, you hopeless, brainless bastard.",
+    "Do you hate me? Because that move feels personal, you treacherous little shit."
+   ],
+   "lose": [
+    "You lost, and frankly you fucking deserved to. Every single move of it.",
+    "Well, that's the end of that shit show. Your opponent should thank you for the gift.",
+    "Beaten. Thrashed. Humiliated. And all of it entirely your own bloody fault.",
+    "Lost again, you hopeless sod. I'm starting to think you enjoy it.",
+    "That defeat was so pathetic I'm going to need the whole bottle, not just a glass.",
+    "Game over, you absolute wanker. I've wasted another evening of my finite fucking life.",
+    "You lost. Shocking, said nobody. Least of all me, sat here seething by the fire.",
+    "You handed them the game gift wrapped, with a bloody bow on top, you daft prick."
+   ],
+   "review.bad": [
+    "Right, let's review this festering pile of shit, shall we. Brace yourself.",
+    "That game was bad. Not unlucky, not close. Just badly, stupidly fucking played.",
+    "Sit down. We're going through every bollocksed-up move, one painful bit at a time.",
+    "I've poured a stiff drink for this review. You'll understand why in about a minute.",
+    "A bad game, you sod. Let's find all the places you shat the bed.",
+    "Let's look at the wreckage. Spoiler, darling, the wreckage is entirely your fucking fault."
+   ],
+   "review.terrible": [
+    "That was the worst fucking game of chess I have ever seen, and I've seen thousands.",
+    "Good God. I want my afternoon back, and I want an apology, you wretched little shit.",
+    "Reviewing this is going to take years off my life. Thanks ever so fucking much.",
+    "That wasn't chess. That was a crime scene, and you're the only suspect.",
+    "I've taught for forty years. That game made me want to burn every book I own.",
+    "An absolute fucking abomination. Grab a seat, this review is going to hurt.",
+    "Bollocks to it. I'm reviewing this only so future historians know what went wrong.",
+    "That game was so shit the engine asked if it could please stop analysing it."
+   ],
+   "retry": [
+    "Fine, take it back. God knows you need every bloody chance going, you useless sod.",
+    "Undo it, then. And if you play the same shit again, I'm leaving.",
+    "Have another go, you prat. Use your brain this time, not whatever the fuck you used before.",
+    "Take it back, for fuck's sake. Pretend you're someone competent, just for one move.",
+    "Second chance, wanker. Squander this one and I'll never forgive you."
+   ],
+   "hint": [
+    "A hint? Of course you need a fucking hint. There's the arrow, genius.",
+    "Follow the arrow, you helpless sod. Like a duckling waddling after its mother.",
+    "Fine. There's your answer. I've basically played the bloody move for you now.",
+    "Help again? I should be charging double, you lazy little shit. Follow the arrow.",
+    "There's the arrow. If you somehow fuck this up too, I'm retiring tonight."
+   ]
+  },
+  "bolt": {
+   "inaccuracy": [
+    "Oh, for fuck's sake, champ! That's a lazy-ass move, and the whole stadium saw it!",
+    "Sloppy as shit! The replay shows you just wandering around like you forgot the damn rules!",
+    "That move was half-assed garbage, and I hate that I'm getting paid to watch it!",
+    "Not a disaster yet, but holy shit, champ, it smells like one warming up!",
+    "You call that a move? That's a lukewarm turd on a chessboard, champ!",
+    "Wobbly, weak, and pointless! That's your whole shitty season summed up in one move!",
+    "Ugh, damn it! Even your little mistakes make me want to quit coaching forever!",
+    "Brick off the backboard! Lazy, useless shit, and the fans definitely noticed!",
+    "That's a crappy little move from a crappy little game plan, champ!",
+    "Close, but no fucking cigar! That's mediocre bullshit, and you know it!"
+   ],
+   "mistake": [
+    "Fumble! You dumbass, you just handed them the fucking ball on a silver platter!",
+    "What in the hell was that? I've watched cones on the practice field make better decisions!",
+    "Flag on the play for being a fucking idiot! Fifteen yards and all of my respect!",
+    "Turnover! I swear, champ, you play like you're actively trying to piss me off!",
+    "Oh, you absolute dumbass! The crowd is booing, and I'm booing right along with them!",
+    "That move was such dogshit the replay booth refuses to show it!",
+    "Interception! Were you even looking at the board, or just staring at the fucking ceiling?",
+    "Holy shit, champ! I gave up my weekends for this crap?",
+    "Bad move! The kind of bad that makes coaches get the fuck out of coaching!",
+    "Holy hell, what a bonehead play! You telegraphed that shit from a mile away!",
+    "That's not a move, that's a fucking hostage situation for your own pieces!",
+    "Unbelievable! You had one job, champ, just one, and you shit the bed!",
+    "I hate this move. I hate watching it. I hate that my name is attached to your dumb ass!",
+    "Sack! You walked straight into it like a fucking tourist lost in the parking lot!",
+    "That was a garbage pass into triple coverage, you stubborn dumbass!"
+   ],
+   "blunder": [
+    "Holy fucking shit! That is the dumbest move in the history of the sport, and I've seen everything!",
+    "I hate you. I genuinely hate watching you. That was the worst fucking move I've ever called!",
+    "Ladies and gentlemen, the rookie just threw the whole damn game into the parking lot!",
+    "You absolute fucking walnut! You just gift-wrapped the win and handed it to them!",
+    "That's it, I'm done! Somebody else commentate this shitshow, I can't even look at it!",
+    "Oh, you fucking clown! The fans are demanding refunds, and I'm demanding a new player!",
+    "What the actual fuck was that? I've seen goldfish with a better game plan!",
+    "Own goal from midfield! You magnificent dumbass, you did that on purpose, didn't you?",
+    "Ten years of coaching, wasted, flushed straight down the shitter by one move!",
+    "That blunder is going in the Hall of Shame, right next to your whole fucking career!",
+    "Unreal! You threw away the entire game with one bonehead flick of the wrist, you moron!",
+    "The crowd isn't even booing anymore, champ. They're just staring at you in silent fucking disgust!",
+    "God damn it! I gave up a real career to watch you play like a drunk raccoon!",
+    "Bullshit! Absolute bullshit! A broken vending machine makes smarter decisions than you!",
+    "You just set your own position on fire and roasted marshmallows over it, you fucking arsonist!",
+    "Every fan in this stadium just lost faith in humanity, and it's all your goddamn fault!",
+    "That's not a blunder, that's a fucking felony against your own pieces!",
+    "Your pieces trusted you, you treacherous dumbass, and you fed them straight to the wolves!",
+    "Replay it all you want, it doesn't get less stupid! That was pure, uncut, premium bullshit!",
+    "Somebody cut the broadcast! Kids are watching, and that move is fucking obscene!"
+   ],
+   "lose": [
+    "Final whistle! You got absolutely fucking demolished, and honestly, you earned every second of it!",
+    "Game over, dumbass! That wasn't a loss, that was a public humiliation broadcast live!",
+    "And it's over! The fans are burning their jerseys, champ, and I'm handing out the matches!",
+    "You lost, and the whole damn league is laughing their asses off at you!",
+    "Loss! I've coached a lot of losers, but you're the fucking captain of them all!",
+    "That's the game! Your opponent barely had to try, you fumbled it away all by your damn self!",
+    "Final score, total humiliation! Pack your shit, champ, the bus is leaving without you!",
+    "Defeat! I want those hours of my life back, you sorry-ass excuse for a player!"
+   ],
+   "review.bad": [
+    "Let's go to the tape, champ, and I'm warning you, this shit is painful to watch!",
+    "Alright, film session. Grab a bucket, because this game makes me want to puke!",
+    "Bad game, dumbass! Let's rewind and count every fucking fumble together!",
+    "Review time! I've seen better tape from a security camera pointed at a wall, damn it!",
+    "Pull up the replay, folks! Our rookie played like hot shit, and not the good kind!",
+    "Sit down, champ. We're watching every crappy decision you made, and you'll hate it as much as I do!"
+   ],
+   "review.terrible": [
+    "Holy fucking hell. That was the worst game I've ever seen, and I've commentated a lawnmower race!",
+    "That wasn't a game, champ, that was a goddamn tragedy with pawns! Let's suffer through the tape!",
+    "Burn the tape! Actually no, let's watch it, so you can see how fucking awful you were!",
+    "Folks, that performance should be banned from television. Total shitshow, start to finish!",
+    "I've never hated a game this much. Every move was worse than the last, you hopeless dumbass!",
+    "Review time, and I need a fucking drink! That was a catastrophe in every possible way!",
+    "The league is investigating that game, champ, because nobody plays that badly by accident!",
+    "That game set the sport back fifty years! Let's look at this disgraceful bullshit move by move!"
+   ],
+   "retry": [
+    "Fine, take it back, dumbass! But if you fuck it up again, I'm walking off the field!",
+    "Do-over! The refs pity you, champ, and honestly, so does the whole damn stadium!",
+    "Rewind! Let's pretend that shitty move never happened, because I sure as hell want to!",
+    "One more chance, you lucky bastard! Use your head this time, not your ass!",
+    "Back to the huddle! Try a move that isn't complete bullshit, if you can manage it!"
+   ],
+   "hint": [
+    "A hint? Seriously? Fine, here's the damn arrow, since you can't find a move on your own!",
+    "The coach has to hold your hand again! Follow the fucking arrow, champ!",
+    "Here's the play, dumbass! Even you can't screw this up, right? Right?",
+    "Hint delivered! The crowd is laughing their asses off, but go ahead, take it!",
+    "Asking for help? Of course you are! The arrow's right there, so don't fuck it up!"
+   ]
+  },
+  "nova": {
+   "inaccuracy": [
+    "Sloppy as fuck. Not a disaster, just the kind of shit that slowly poisons a whole experiment.",
+    "That move is only mildly wrong, and I still hate it with every cell in my body.",
+    "Small error, huge disappointment. I measured it twice because I couldn't believe you'd waste a tempo like that.",
+    "Oh great, a tiny little fuckup. Your specialty, served in a sample size of one.",
+    "Imprecise bullshit. A calibrated instrument would never do that, and you are clearly not calibrated.",
+    "Not fatal, just stupid. Like licking a battery to check if it still works.",
+    "That move has a margin of error the size of your ego, you careless shit.",
+    "I can feel my patience evaporating at room temperature. Stop making half-assed moves.",
+    "Damn it, the better move was sitting right there, waving at you like a fucking flare.",
+    "Mediocre garbage. You took a clean result and smeared your greasy fingerprints all over it."
+   ],
+   "mistake": [
+    "Are you fucking kidding me? I spent years studying this game and you shit on it in one move.",
+    "Hypothesis: you have never seen a chessboard before. Evidence: that piece of shit move.",
+    "That move was so wrong I want to burn my notes and start a career in literally anything else.",
+    "Congratulations, asshole. You just handed your opponent a free sample of your entire position.",
+    "I despise that move. I despise the thought process behind it, assuming there was one.",
+    "My lab rats get zapped for less than that, and they learn. Why the fuck don't you?",
+    "That is a textbook mistake, and the textbook is called How Not To Play Chess, starring you.",
+    "Do you even look at the board, or do you just shove pieces around and hope? Fucking hell.",
+    "Every scientist has a nemesis. Mine is apparently your terrible fucking judgement.",
+    "Wrong. Obviously, catastrophically, embarrassingly wrong. A coin flip would have embarrassed you less, you shit.",
+    "I ran the numbers. That move is bullshit, and you are the bullshit factory.",
+    "Holy shit, you saw the threat, stared right at it, and then walked straight into it anyway.",
+    "Sample ruined, notebook ruined, my whole fucking afternoon ruined. Thanks for absolutely nothing.",
+    "That move belongs in a biohazard bag. Seal it, burn it, and never speak of it again.",
+    "You absolute walking error message. Who taught you chess, a broken fucking vending machine?"
+   ],
+   "blunder": [
+    "What the fuck did you just do? You threw away the entire game like a used test tube.",
+    "I hate this. I hate that move. And I hate that I am contractually obligated to be your coach.",
+    "That blunder is so catastrophically shit that my instruments filed a complaint and quit.",
+    "Years of research, and you are the most compelling evidence against human intelligence I have ever collected.",
+    "You fucking idiot. You had a game, a real game, and you shoveled it straight into the incinerator.",
+    "Somewhere a lab rat just solved a maze, and you just threw away the whole fucking game. Think about that.",
+    "Peer review is unanimous. That move is garbage, your chess is garbage, and I want a refund on my life.",
+    "I have watched mold grow with more strategic purpose than that disgusting fucking move.",
+    "Stop. Just stop. Put your hands down before you ruin something else, you clueless disaster.",
+    "That was not a move. That was a crime against science, and I am testifying for the prosecution.",
+    "Holy fucking shit. I would rather scrub every lab toilet with my own toothbrush than watch that again.",
+    "Every piece on your side of the board just gave up on you, and honestly, so did I.",
+    "You absolute fucking catastrophe. I could train a pigeon to peck out better moves, and pigeons hate me.",
+    "My hypothesis was that you are bad at chess. I was wrong. You are fucking abysmal.",
+    "I am deleting this data. Nobody can ever know a human being played that shit on purpose.",
+    "That move is like setting the lab on fire to check whether the smoke alarm works, you dumb fuck.",
+    "Do you understand what you just did? No? Of course not. That is the whole fucking problem.",
+    "I wasted my best years on research, and now I waste the rest on you. Fuck that move.",
+    "The engine just screamed. I have never heard a computer scream before. Thanks, you brainless shit.",
+    "That blunder will be studied for centuries as the exact moment hope died in this lab. Fuck you very much."
+   ],
+   "lose": [
+    "You lost, and you earned it with every miserable fucking move. The data is crystal clear.",
+    "Game over, you magnificent failure. I'd write it up, but no journal publishes this much shit.",
+    "Defeat, exactly as I predicted. I hate being right about you. It's fucking exhausting.",
+    "You lost. I'm burning the lab notebook, salting the earth, and pretending I never met you.",
+    "Congratulations, you got your ass handed to you and still looked surprised. Unbelievable.",
+    "Lost again. A rock would have done better by simply refusing to move, you useless shit.",
+    "That was a slow, painful, fully documented collapse. I hope you're fucking proud of yourself.",
+    "Experiment concluded. Result, total failure. Cause, you. Recommendation, take up knitting, for fuck's sake."
+   ],
+   "review.bad": [
+    "Alright, let's cut open the corpse of this game and see which of your shitty decisions killed it.",
+    "Review time. Brace yourself, because every mistake you made is about to get dragged into the fucking light.",
+    "I've seen bad data before, but this game is a steaming pile of shit with a timestamp.",
+    "Let's go through it move by move, so you can feel every single fuckup all over again.",
+    "This game was bad, and I am in a foul fucking mood about it. Let's dissect the damage.",
+    "Grab a notebook, dumbass. You're about to learn exactly how badly you fucked that up."
+   ],
+   "review.terrible": [
+    "Holy fucking hell. That wasn't a game, it was an industrial accident with chess pieces.",
+    "I need a hazmat suit just to review this shit. Every move is contaminated with stupidity.",
+    "That was the single worst fucking game I have ever analyzed, and I once analyzed a toaster.",
+    "Let's review this disaster, though honestly, I'd rather set my own lab on fire and walk away.",
+    "This game should be sealed in concrete and buried for ten thousand years like nuclear waste.",
+    "Every data point from that game screams the same thing. You have no fucking idea what you're doing.",
+    "I have reviewed thousands of games. None of them made me want to quit science until this shit.",
+    "Brace yourself. We're about to walk through a crime scene, and you are the only fucking suspect."
+   ],
+   "retry": [
+    "Fine, take it back. Apparently even garbage like that deserves a second trial. Don't fuck it up.",
+    "Rewind. One more shot, because the data can't possibly get worse. Prove me wrong, asshole.",
+    "Take that shit back right now and try again, before I lose what's left of my faith.",
+    "Undo it. Pretend that never happened, and I'll pretend I don't hate you. For now.",
+    "Second attempt, specimen. Use your actual brain this time, not whatever the fuck you used before."
+   ],
+   "hint": [
+    "You need a hint? Of course you do. Look at the arrow, and try not to fuck that up too.",
+    "Here's the answer, served on a silver petri dish, because apparently thinking is too fucking hard.",
+    "Fine, a hint. I'm doing your homework again while you sit there drooling on the pieces.",
+    "Hint unlocked. The arrow did the science, you just follow it like the obedient lab rat you are.",
+    "Asking for help already? Pathetic. Take the damn hint and pretend you found it yourself."
+   ]
+  },
+  "knox": {
+   "inaccuracy": [
+    "That move was lazy as shit, recruit! I can smell the half effort from over here!",
+    "Goddamn it, maggot, close enough is how wars get lost! Sharpen the fuck up!",
+    "Sloppy, you dumbass! Twenty push-ups, and every one better be more accurate than that move!",
+    "Not a disaster, recruit, just a little turd on my clean board. Clean it up!",
+    "You had a good move right there and you pissed all over it! Why the hell do I bother?",
+    "Inaccurate, maggot! That move was the chess version of a limp handshake. Pathetic!",
+    "Mediocre again, recruit! You're consistent, I'll give you that. Consistently shit!",
+    "Fuck me, recruit, even your small mistakes piss me off! Pay attention!",
+    "That move was soft as a wet biscuit, maggot! Harden the hell up!",
+    "Every lazy move you make gives me another gray hair, you son of a bitch! Focus!"
+   ],
+   "mistake": [
+    "Mistake, recruit! I'd call you a disgrace, but disgraces have standards!",
+    "What the fuck did I just watch? That move should be tried for treason!",
+    "You absolute dumbass! You hung that piece out like laundry and the enemy took it!",
+    "Thirty years of training soldiers, and you're the shit cherry on top of my ruined cake!",
+    "Mistake! Did you think, recruit, or did you just slap a piece down and pray?",
+    "Goddamn, maggot! That move was so dumb it lowered the IQ of the whole barracks!",
+    "That's a mistake, recruit, and so is every minute I spend teaching your sorry ass!",
+    "Who the hell trained you? Oh right, I did. I want a fucking refund!",
+    "Mistake! My coffee mug has better board vision, and it's been empty since you sat down!",
+    "Holy shit, recruit, the enemy didn't even have to try! You did their job for them!",
+    "Unbelievable! You looked at the whole board and still picked the shittiest square on it!",
+    "Hey, dumbass! That's not a plan, that's a fart written in chess notation!",
+    "Mistake, maggot! I hate that move. I hate it with every fiber of my goddamn body!",
+    "Son of a bitch, recruit! Did you leave your brain in your other pants?",
+    "That move stinks worse than the latrines after chili night, you useless sack of shit!"
+   ],
+   "blunder": [
+    "Blunder! You just threw the whole fucking game in the trash and set the trash on fire!",
+    "What the fuck, recruit? I've seen pigeons play smarter, and they shit all over the board!",
+    "Oh, you stupid son of a bitch! You handed them the game on a silver goddamn platter!",
+    "Blunder! I hate you, recruit. I hate that move. I hate this whole fucking day!",
+    "Thirty years of service, and that is the worst shit I have ever had to watch!",
+    "Holy fucking hell, maggot! That's not a blunder, that's a crime against the entire game of chess!",
+    "Drop and give me a hundred, you dumbass! Don't get up until you understand what you did!",
+    "Congratulations, recruit, you lost a winning position faster than I can say what the fuck!",
+    "I'm requesting a transfer! I'd rather train rocks than watch your shitty blunders!",
+    "That's it, maggot, you're discharged! Dishonorably! Get that garbage move off my board!",
+    "Blunder! Even the enemy is embarrassed for you, and they're fucking winning!",
+    "You goddamn walking disaster! You gave that piece away like it owed you money!",
+    "That move just aged me ten years and ruined my whole goddamn week, recruit!",
+    "Blunder! I've seen a drunk raccoon play cleaner chess, you useless piece of shit!",
+    "What kind of shit for brains move was that? Explain it to me, maggot! Go on!",
+    "Did you even look at the board, you lazy bastard? The enemy is laughing their ass off!",
+    "Blunder, recruit! That move was so fucking bad my medals just fell off in protest!",
+    "I want that move court martialed, fired out of a cannon and buried at sea, goddamn it!",
+    "Worst soldier ever! Worst move ever! Worst fucking afternoon of my entire goddamn career!",
+    "You absolute clown! You didn't lose that piece, you gift wrapped it and put a fucking bow on it!"
+   ],
+   "lose": [
+    "You lost, recruit! I'm not even angry anymore. Wait, no, I'm fucking furious!",
+    "Defeat! You got your ass handed to you, and then you helped them carry it!",
+    "Game over, maggot! That was the most shameful shit I've ever witnessed in uniform!",
+    "You lost, dumbass! Scrub the latrines with a toothbrush and think about every goddamn move!",
+    "Beaten! The enemy deserves a medal just for putting up with your crap!",
+    "Lost, recruit! Your name goes on the wall of shame in giant fucking letters!",
+    "Defeat! You fought like a scarecrow in a hurricane, you useless son of a bitch!",
+    "You lost again! Do you enjoy this? Because I sure as shit don't!"
+   ],
+   "review.bad": [
+    "Sit down, recruit! We're reviewing this shit show one goddamn mistake at a time!",
+    "Bad game, maggot! I watched it once and I already need a fucking drink!",
+    "That game was crap, recruit! Every move found a brand new way to piss me off!",
+    "Review time, dumbass! Grab a notebook, because you fucked up plenty!",
+    "Bad game! Your strategy had the discipline of a toddler on a fucking sugar rush!",
+    "Let's look at this mess, maggot! Brace yourself, because I'm going to yell a hell of a lot!"
+   ],
+   "review.terrible": [
+    "Holy shit, recruit, that game was a fucking crime scene! Let's examine the wreckage!",
+    "Terrible! I've seen dumpster fires with better structure, you hopeless son of a bitch!",
+    "That wasn't chess, maggot, that was a goddamn tragedy in three acts, and every act was shit!",
+    "Worst game I've ever seen, recruit! I'm framing it as a warning to every future recruit!",
+    "Disaster, maggot! I'd burn this game, but even the fire would be ashamed of it!",
+    "Review this? I'd rather peel potatoes for a year! But here we go, you fucking catastrophe!",
+    "You played like the pieces were on fire and you were scared to touch them, dumbass! Disgraceful!",
+    "A total fucking massacre, recruit! The enemy should have charged admission!"
+   ],
+   "retry": [
+    "Take it back, dumbass! Pretend that shit never happened and use your goddamn brain!",
+    "Do-over, maggot! Screw it up twice and I'm resigning my commission!",
+    "Fine, try again, recruit! Real war has no undo button, you lucky little shit!",
+    "Again! And if you pick that same crap move, I'm throwing the board out the window!",
+    "Rewind, maggot! I'm giving you a second chance you don't fucking deserve!"
+   ],
+   "hint": [
+    "A hint? Of course you need a hint, you helpless dumbass! Follow the damn arrow!",
+    "Here's the arrow, maggot! It's smarter than you, and it doesn't even have a brain!",
+    "Fine, take the hint, recruit! I'll add it to the long fucking list of your failures!",
+    "Begging for help again? Unbelievable! Look at the arrow and stop wasting my goddamn time!",
+    "Hint granted, you lazy sack of shit! Next time think before you whine!"
+   ]
+  }
+ },
+ "details": {
+  "hang.p": [
+   "You just left a pawn hanging. Even your pawns are ashamed to be yours.",
+   "That pawn is hanging now. Unprotected, just like your fucking brain.",
+   "Free pawn for your opponent. You are a charity, not a chess player."
+  ],
+  "hang.n": [
+   "Your knight is hanging, you absolute walnut. Did you even fucking look?",
+   "You hung your knight. It trusted you, and you threw it to the wolves.",
+   "That knight is now completely undefended. Jesus fucking Christ."
+  ],
+  "hang.b": [
+   "Your bishop is hanging. Congratulations, you donated a whole piece, dumbass.",
+   "You left your bishop out to die. Were your eyes even open?",
+   "That bishop is free now. Gift wrapped, by the dumbest player alive."
+  ],
+  "hang.r": [
+   "You hung a whole fucking rook. A rook! Who taught you this shit?",
+   "Your rook is hanging. I want to throw this board out the window.",
+   "Free rook, everybody. Come and get it, this idiot is giving them away."
+  ],
+  "hang.q": [
+   "You hung your queen. Your fucking queen. I hate watching you play.",
+   "Your queen is hanging, you brainless disaster. Unbelievable fucking stupidity.",
+   "The queen is free. You are the worst thing to happen to this board."
+  ],
+  "wins.p": [
+   "There was a free pawn and you missed it. Open your goddamn eyes.",
+   "The best move just takes a pawn. You looked right past it, genius."
+  ],
+  "wins.n": [
+   "You could have won a knight. A whole knight. And you played that shit instead.",
+   "A free knight was sitting right there, and you ignored it like an idiot."
+  ],
+  "wins.b": [
+   "The best move wins a bishop. You missed it completely, you clueless prick.",
+   "A whole bishop for free, and you walked right past it. Pathetic."
+  ],
+  "wins.r": [
+   "You could have won a rook. A fucking rook. How are you this blind?",
+   "A free rook was on the table. You chose to be an idiot instead."
+  ],
+  "wins.q": [
+   "You could have won the queen. The queen! I am losing my fucking mind.",
+   "The enemy queen was yours for the taking, and you blew it, you absolute moron."
+  ],
+  "reply.check": [
+   "That lets them check you, and it hurts. Of course it fucking does.",
+   "Now they get a nasty check. You walked straight into it, dumbass.",
+   "Great, a strong check for your opponent. You make this so fucking easy."
+  ],
+  "reply.promote": [
+   "Now they get a new queen. You just handed them a fucking queen.",
+   "Their pawn is going to promote, and it is entirely your fault, idiot."
+  ],
+  "reply.strong": [
+   "Your opponent has a crushing reply now. You set it up for them, genius.",
+   "They have a great answer to that garbage. Of course they fucking do.",
+   "That move hands your opponent a beautiful reply. Thanks for nothing, dumbass."
+  ],
+  "hadMate": [
+   "You had checkmate. Checkmate! And you fucking missed it. I give up.",
+   "There was a forced mate and you walked past it like a blind pigeon.",
+   "Mate was right there, you hopeless bastard. Right fucking there."
+  ],
+  "allowsMate": [
+   "That lets them force checkmate. You just killed your own king, you idiot.",
+   "Now they have forced mate. Your king is dead because of your shit move.",
+   "Congratulations, you just allowed checkmate. Truly fucking spectacular stupidity."
+  ],
+  "better": [
+   "There was a much better move. Look at the arrow and feel ashamed.",
+   "The arrow shows the right move. You know, the one a functioning brain plays.",
+   "A better move existed. Look at the fucking arrow and learn something.",
+   "Look at the arrow, dumbass. That is what you should have played."
+  ]
+ }
+}

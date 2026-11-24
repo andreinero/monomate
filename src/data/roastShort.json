@@ -1,0 +1,278 @@
+{
+ "sage": {
+  "inaccuracy": [
+   "Sloppy. Bloody sloppy, you idle sod.",
+   "Close, but still shit. Do better.",
+   "Christ, that was limp as fuck.",
+   "Half-arsed again. How tedious you are.",
+   "Not ruinous. Merely rubbish, you prat.",
+   "Oh, do pay attention, you dozy twat.",
+   "Lazy little move. I despise it.",
+   "Bollocks. You had better and ignored it.",
+   "Careless as ever, you dithering arse.",
+   "Pathetic. Even your small errors bore me."
+  ],
+  "mistake": [
+   "What the fuck was that meant to be?",
+   "Oh, you absolute bloody wanker.",
+   "That was shit, and you knew it.",
+   "Splendid. Another steaming pile of bollocks.",
+   "Wrong. Gloriously, stupidly, fucking wrong.",
+   "Did you even look, you clueless sod?",
+   "Christ alive, that move stinks of panic.",
+   "A proper mistake. Well done, you twat.",
+   "Fucking hell. Was that a plan, darling?",
+   "I loathe that move. Truly, deeply loathe it.",
+   "Bloody marvellous. Your position just shat itself.",
+   "Think first, you hopeless arse. Then move."
+  ],
+  "blunder": [
+   "Blunder! Are you fucking joking, you wanker?",
+   "Oh, fuck me. That was the game.",
+   "You colossal prat. Game thrown away.",
+   "Bollocks! You absolute walking shit show.",
+   "Unforgivable. Utterly fucking unforgivable.",
+   "I hate you for that move. Genuinely.",
+   "Christ almighty, you brainless sod. Gone. Finished.",
+   "That was idiotic. Stupendously, magnificently idiotic.",
+   "Fucking hell, you've binned the whole game.",
+   "Congratulations, wanker. A historic heap of shit.",
+   "Good God. My tea has curdled. Pure shite.",
+   "You useless bastard. Everything, thrown away.",
+   "What in bloody hell did you just do?",
+   "Spectacular. The worst move I've ever witnessed.",
+   "Sod it all. You've ruined everything, you clown."
+  ],
+  "lose": [
+   "Lost. Of course you fucking lost.",
+   "Checkmate. Well deserved, you hopeless sod.",
+   "Game over, wanker. Entirely your doing.",
+   "Another defeat. How bloody predictable.",
+   "Beaten again. I'm embarrassed for you, prat.",
+   "Lost, you twat. Go and reflect on that shit."
+  ],
+  "hint": [
+   "A hint? Fucking typical. Very well.",
+   "Can't manage alone, can you, you sod?",
+   "Begging for help again. How bloody pathetic.",
+   "Fine. Here, you helpless arse.",
+   "Oh, for fuck's sake. Look here, then.",
+   "Hint requested. Dignity abandoned, I see."
+  ],
+  "retry": [
+   "Take it back, you clumsy twat. Again.",
+   "Go on, undo that shit. Try thinking.",
+   "Again, you sod. Properly this time.",
+   "One more chance. Don't fucking waste it.",
+   "Undo that bollocks and use your brain.",
+   "Try again, prat. Slower. With feeling."
+  ]
+ },
+ "bolt": {
+  "inaccuracy": [
+   "Sloppy shit, rookie. Tighten it the hell up.",
+   "Ugh, lazy-ass move. The crowd's yawning, champ.",
+   "Damn, that's weak. Even the mascot groaned.",
+   "Meh. Half-assed crap, and you know it.",
+   "Not great, dumbass. Not great at all.",
+   "Off target again, champ. Shit.",
+   "That's sloppy as hell, recruit.",
+   "Wobbly fucking move, champ. Smells like trouble.",
+   "Hey dumbass, wake up! That was lazy.",
+   "Come on! That's barely chess, you slacker."
+  ],
+  "mistake": [
+   "Fumble! You dumbass, what the fuck?",
+   "Turnover! Holy shit, champ, really?",
+   "Flag on the play, jackass! Ugly move!",
+   "What the hell was that garbage?",
+   "Oh, fuck me. You fumbled it, champ.",
+   "Damn it! You just handed them the ball!",
+   "Are you shitting me? That's a turnover!",
+   "Wow, champ! That move was pure trash.",
+   "Brutal fucking fumble. The fans are booing you.",
+   "Dumbass move! Did you even look?",
+   "Intercepted! Shit, champ, use your head!",
+   "Ouch, jackass. That one's gonna cost you."
+  ],
+  "blunder": [
+   "Holy fucking shit! Game thrown, dumbass!",
+   "Blunder! I hate you so damn much!",
+   "You fucking walnut! You just gave it away!",
+   "Unbelievable! Worst fucking move I've ever called!",
+   "Why, champ? Why the fuck would you do that?",
+   "Disaster! You torched the whole damn game!",
+   "Holy shit, dumbass! You just lost everything!",
+   "That's it, I quit. That was fucking pathetic.",
+   "What the fuck? You threw the championship!",
+   "Garbage! Absolute fucking garbage, you clown!",
+   "Fire this rookie! What a shit blunder!",
+   "Brain fart of the century, jackass!",
+   "Folks, I'm speechless. That was fucking awful.",
+   "Dumbest shit I've ever seen, champ!",
+   "Catastrophe! You fumbled the whole fucking season!"
+  ],
+  "lose": [
+   "Game over, dumbass! Totally fucking demolished!",
+   "Final whistle! You got your ass kicked!",
+   "It's over, champ. Pathetic as hell.",
+   "You lost, jackass. The whole league is laughing.",
+   "Done! That was a shitshow, start to finish.",
+   "Loss! You beat yourself, you fucking clown."
+  ],
+  "hint": [
+   "A hint? Fine, follow the damn arrow.",
+   "Hand-holding again? Here, dumbass, take it.",
+   "Can't find it? Shit. Here's the play.",
+   "Here's the arrow, champ. Don't fuck it up.",
+   "Begging for help again? Pathetic. Here.",
+   "Fine, I'll draw the play, you helpless jackass."
+  ],
+  "retry": [
+   "Take it back, dumbass. Don't screw it up again.",
+   "Do-over! The refs pity you, champ.",
+   "Rewind! Pretend that shit never happened.",
+   "One more shot, you lucky bastard.",
+   "Fine, try again. Use your damn head.",
+   "Mulligan, jackass! Make it count this time."
+  ]
+ },
+ "nova": {
+  "inaccuracy": [
+   "Imprecise as shit. Noted, and despised.",
+   "Sloppy. My data hates you a little more.",
+   "Close is not correct, you careless fuck.",
+   "Minor error. Major fucking disappointment.",
+   "Tiny flaw, logged in red ink. Damn you.",
+   "Measured it. Still shit.",
+   "Wrong by a hair. Still wrong, dumbass.",
+   "That move contaminates my whole sample. Fuck.",
+   "Lazy little fuckup. Classic specimen behavior.",
+   "Almost decent. Almost. Do better, damn it."
+  ],
+  "mistake": [
+   "Hypothesis confirmed. You are fucking terrible.",
+   "What the fuck was that experiment?",
+   "Clinically speaking, that move is shit.",
+   "Control group, failed. Variable, failed. You, failed.",
+   "That move belongs in a biohazard bin.",
+   "Pond scum plays better. Pond scum, asshole.",
+   "Even my lab rats saw that. Damn.",
+   "Wrong. Confidently, spectacularly, fucking wrong.",
+   "I recorded that. I regret recording that.",
+   "Results inconclusive, except you suck. Fuck.",
+   "Your logic just failed peer review, shithead.",
+   "That was garbage, and you know it."
+  ],
+  "blunder": [
+   "Blunder. Specimen terminated. Fucking pathetic.",
+   "You just torched the entire fucking game.",
+   "What the fuck did you just do?",
+   "Catastrophic failure. I hate you, scientifically.",
+   "That move should be classified as toxic waste.",
+   "Experiment ruined. Years of work. Fuck you.",
+   "Holy shit. Mould would have seen that.",
+   "Game gone. Brain absent. Data disgusting.",
+   "I am retracting you from my study.",
+   "Unbelievable. Even bacteria avoid that move.",
+   "You threw it away, you useless shit.",
+   "That blunder made my instruments quit. Fuck.",
+   "Pure contamination. Burn it. Burn it all.",
+   "Damn it all. Total collapse, you idiot.",
+   "I despise that move at a molecular level."
+  ],
+  "lose": [
+   "You lost. Conclusion: you fucking suck.",
+   "Defeat, as predicted. Shit data, shit player.",
+   "Experiment over. Cause of failure: you.",
+   "Game lost. Filing this under garbage. Damn.",
+   "Failed specimen. Unsurprising. Fuck this game.",
+   "You lost, you hopeless shit. Logged."
+  ],
+  "hint": [
+   "A hint? Of course. Pathetic as fuck.",
+   "Follow the arrow, lab rat.",
+   "Fine. Spoon feeding the specimen again. Damn.",
+   "Here. Try not to fuck this up.",
+   "Thinking too hard for you? Shit.",
+   "Answer served. Now obey the arrow."
+  ],
+  "retry": [
+   "Take it back. Don't fuck it up.",
+   "Rewind. Second trial. Prove me wrong, asshole.",
+   "Undo that shit. Try again.",
+   "Fine, redo it. Data cannot get worse.",
+   "Retest. Same mistake and I quit. Damn.",
+   "Again. Properly this time, you sloppy fuck."
+  ]
+ },
+ "knox": {
+  "inaccuracy": [
+   "Sloppy as shit, recruit. Tighten up!",
+   "Close enough? Fuck close enough, maggot!",
+   "Half-assed move, dumbass. Do better!",
+   "Goddamn it, that was almost good.",
+   "Lazy fucking move, recruit. I noticed.",
+   "Second best is first loser, maggot!",
+   "Weak shit, recruit. Find the real move!",
+   "Inaccurate! Wake the hell up, dumbass!",
+   "You pissed away half a pawn, motherfucker!",
+   "Mediocre crap, recruit. My eye is twitching."
+  ],
+  "mistake": [
+   "Mistake! What the fuck was that, maggot?",
+   "You dumbass! You walked right into it!",
+   "Shit move, recruit. Absolute garbage.",
+   "Goddamn! Did you even look, recruit?",
+   "That move belongs in the latrine, maggot!",
+   "Holy shit, you gift-wrapped that piece!",
+   "Mistake, motherfucker! Eyes on the board!",
+   "Who the hell taught you that? Not me!",
+   "Court martial for that move, dumbass!",
+   "Thinking, or just slapping shit down, recruit?",
+   "Fuck me, recruit. That was dumb.",
+   "Disgraceful! My boots play better chess, maggot!"
+  ],
+  "blunder": [
+   "Blunder! Are you shitting me, recruit?",
+   "You just fucking threw the game away!",
+   "Blunder, dumbass! Game over, thanks to you!",
+   "What the fuck did you just do?",
+   "Holy fucking hell, maggot! Unforgivable!",
+   "I hate that move. I hate this day!",
+   "Goddamn disaster, recruit! Drop and give me fifty!",
+   "You stupid motherfucker, you gave it away!",
+   "Worst shit I have ever seen, recruit!",
+   "Blunder! Dishonorable discharge, you dumbass!",
+   "Silver platter, recruit! You served them the game!",
+   "Pigeons blunder less than you, maggot!",
+   "God fucking damn it! Catastrophic, recruit!",
+   "Total fucking collapse, maggot! Pathetic!",
+   "Blunder! I want a goddamn transfer!"
+  ],
+  "lose": [
+   "Lost. Of course you fucking lost, recruit.",
+   "Defeat! Get your sorry ass up, maggot.",
+   "Game over, dumbass. You shit the bed again.",
+   "You lost, maggot. Shameful goddamn performance.",
+   "Beaten! Clean up this shitshow, recruit.",
+   "Another loss, motherfucker. Back to training!"
+  ],
+  "hint": [
+   "A hint? Fine, you helpless dumbass.",
+   "Begging for help already, maggot? Fucking fine.",
+   "Here is your goddamn hint, recruit. Look!",
+   "Need your hand held? Shit, okay.",
+   "Hint coming, maggot. Don't waste it, dumbass.",
+   "Fine, recruit. Pay attention this fucking time."
+  ],
+  "retry": [
+   "Take it back, maggot. Fix that shit!",
+   "Do it again, dumbass. Properly this time!",
+   "One more chance, recruit. Don't fuck it up.",
+   "Again! And use your goddamn head!",
+   "Redo it, maggot. That move was shit.",
+   "Try again, motherfucker. Do it right!"
+  ]
+ }
+}
