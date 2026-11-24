@@ -54,3 +54,6 @@ yarn-error.*
 
 # personal editor and assistant settings
 .claude/
+
+# Python caches
+__pycache__/
